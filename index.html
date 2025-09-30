@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sistem Regulasi</title>
+    <link rel="stylesheet" href="style.css"> 
+</head>
+<body>
+
+    <div id="splashScreen">
+        <div class="logo-container">
+            <img src="1.png" alt="logo">
+            <p>Loading Regulations Data...</p>
+        </div>
+    </div>
+    <header class="hidden-content">
+        <h1>Regulations System Search</h1>
+    </header>
+
+    <main class="hidden-content">
+        <section id="search-section">
+            <input type="text" id="searchInput" placeholder="Cari Kode Pasal, Nama Pelanggaran, atau Kategori...">
+            <select id="categoryFilter">
+                <option value="">Semua Kategori</option>
+            </select>
+        </section>
+
+        <section id="results-section">
+            <h2>Hasil Pencarian</h2>
+            <table id="penaltyTable">
+                <thead>
+                    <tr>
+                        <th>Kode Pasal</th>
+                        <th>Nama Pelanggaran</th>
+                        <th>Kategori</th>
+                        <th>Klasifikasi</th> 
+                        <th>Hukuman / Denda</th>
+                        <th>Aksi</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    </tbody>
+            </table>
+            <p id="noResults" style="display: none; text-align: center;">Tidak ada hasil yang ditemukan.</p>
+        </section>
+    </main>
+
+    <div id="detailModal" class="modal">
+        <div class="modal-content">
+            <span class="close-button">&times;</span>
+            <h2 id="modalTitle"></h2>
+            <p><strong>Kode Pasal:</strong> <span id="modalCode"></span></p>
+            <p><strong>Kategori:</strong> <span id="modalCategory"></span></p>
+            <p><strong>Klasifikasi:</strong> <span id="modalClassification"></span></p>
+            <p><strong>Hukuman Penjara/Sanksi:</strong> <span id="modalPenalty"></span></p>
+            <p><strong>Denda:</strong> <span id="modalFine"></span></p>
+            <h3>Rincian Pasal:</h3>
+            <ul id="modalDetailsList">
+                </ul>
+        </div>
+    </div>
+
+    <script src="script.js"></script> 
+</body>
+</html>

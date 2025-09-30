@@ -1,0 +1,317 @@
+/* --- Global Reset & MDT Theme Setup --- */
+:root {
+    --color-background: #1c1c24; /* Darker charcoal/navy background */
+    --color-primary: #1e88e5;    /* Primary blue accent */
+    --color-accent: #00e676;     /* Neon Green/Teal accent for buttons/info */
+    --color-text: #e0e0e0;       /* Light gray text */
+    --color-border: #333344;     /* Subtle dark border */
+    --font-mono: 'Roboto Mono', 'Courier New', monospace;
+}
+
+body {
+    font-family: var(--font-mono);
+    margin: 0;
+    padding: 0;
+    background-color: var(--color-background);
+    color: var(--color-text);
+    line-height: 1.6;
+}
+
+header {
+    background-color: #0d162a; /* Even darker header for contrast */
+    color: var(--color-accent);
+    padding: 30px 0;
+    text-align: center;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4);
+    border-bottom: 2px solid var(--color-primary);
+}
+
+h1 {
+    margin: 0;
+    font-weight: 400;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+main {
+    padding: 30px 20px;
+    max-width: 1400px; 
+    margin: 20px auto;
+}
+
+h2 {
+    color: var(--color-primary);
+    font-weight: 500;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    padding-bottom: 5px;
+    border-bottom: 1px dashed var(--color-border); /* Dashed for technical look */
+    text-transform: uppercase;
+}
+
+/* --- Search & Filter Section (Data Block Look) --- */
+#search-section {
+    display: flex;
+    gap: 15px;
+    margin-bottom: 40px;
+    padding: 20px;
+    background-color: #22222d; /* Slightly lighter background for the block */
+    border: 1px solid var(--color-border);
+    border-radius: 4px;
+    box-shadow: 0 0 10px rgba(30, 136, 229, 0.1);
+}
+
+#searchInput, #categoryFilter {
+    padding: 10px 15px;
+    background-color: #1a1a24;
+    color: var(--color-text);
+    border: 1px solid var(--color-border);
+    border-radius: 3px;
+    font-size: 15px;
+    flex-grow: 1;
+    transition: all 0.3s ease;
+    font-family: var(--font-mono);
+}
+
+#searchInput::placeholder {
+    color: #888;
+}
+
+#searchInput:focus, #categoryFilter:focus {
+    border-color: var(--color-accent);
+    box-shadow: 0 0 8px rgba(0, 230, 118, 0.5); /* Neon glow effect */
+    outline: none;
+}
+
+/* --- Table Styles (Command Line Output) --- */
+#results-section {
+    overflow-x: auto;
+}
+
+#penaltyTable {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: #22222d;
+    border-radius: 4px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+    overflow: hidden;
+}
+
+#penaltyTable th, #penaltyTable td {
+    padding: 12px 18px;
+    text-align: left;
+    border-bottom: 1px solid var(--color-border);
+    font-size: 14px;
+}
+
+#penaltyTable th {
+    background-color: #1a1a24;
+    color: var(--color-primary);
+    font-weight: 600;
+    text-transform: uppercase;
+    border-bottom: 2px solid var(--color-primary);
+}
+
+#penaltyTable tbody tr:hover {
+    background-color: #2a2a3a; /* Subtle row highlight on hover */
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+}
+
+/* --- View Button Style (Pulsing Accent) --- */
+.view-btn {
+    background-color: var(--color-accent);
+    color: #1c1c24; /* Dark text on bright button */
+    border: none;
+    padding: 6px 12px;
+    border-radius: 3px;
+    cursor: pointer;
+    font-size: 13px;
+    font-weight: 700;
+    text-transform: uppercase;
+    box-shadow: 0 0 5px rgba(0, 230, 118, 0.5);
+    transition: all 0.2s ease;
+}
+
+.view-btn:hover {
+    background-color: #00c853; 
+    box-shadow: 0 0 10px rgba(0, 230, 118, 0.8);
+    transform: scale(1.05);
+}
+
+/* --- Modal Styles (Floating Terminal Window) --- */
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.85); /* Sangat gelap, fokus ke modal */
+}
+
+.modal-content {
+    background-color: #1a1a24;
+    margin: 5% auto;
+    padding: 30px;
+    border: 1px solid var(--color-accent);
+    width: 90%;
+    max-width: 700px;
+    border-radius: 5px;
+    position: relative;
+    box-shadow: 0 0 20px rgba(0, 230, 118, 0.3); /* Neon Box Shadow */
+    animation: slideIn 0.4s ease-out;
+}
+
+@keyframes slideIn {
+    from { opacity: 0; transform: translateY(-50px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+.close-button {
+    color: var(--color-primary);
+    float: right;
+    font-size: 30px;
+    line-height: 1;
+    font-weight: 300;
+    transition: color 0.3s;
+}
+
+.close-button:hover,
+.close-button:focus {
+    color: var(--color-accent);
+    text-shadow: 0 0 5px var(--color-accent);
+    text-decoration: none;
+    cursor: pointer;
+}
+
+/* Modal Detail Styling */
+.modal-content h2 {
+    color: var(--color-accent);
+    margin-top: 0;
+    margin-bottom: 20px;
+    border-bottom: 2px solid var(--color-accent);
+    padding-bottom: 10px;
+}
+
+.modal-content h3 {
+    color: var(--color-primary);
+    margin-top: 25px;
+    margin-bottom: 15px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.modal-content p strong {
+    display: inline-block;
+    min-width: 200px;
+    color: var(--color-primary);
+    font-weight: 500;
+}
+
+/* Detail List (Rincian Pasal) */
+#modalDetailsList {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+#modalDetailsList li {
+    margin-bottom: 8px;
+    padding-left: 15px;
+    border-left: 2px solid var(--color-border);
+}
+
+#modalDetailsList li:before {
+    content: '> '; /* Command line prefix */
+    color: var(--color-accent);
+    margin-right: 5px;
+}
+
+/* Info Khusus (No Results) */
+#noResults {
+    color: var(--color-accent);
+    text-align: center;
+    padding: 20px;
+    background-color: #22222d;
+    border: 1px solid var(--color-accent);
+    margin-top: 20px;
+}
+
+/* --- Responsive Adjustments --- */
+@media (max-width: 768px) {
+    #search-section {
+        flex-direction: column;
+        gap: 10px;
+        padding: 15px;
+    }
+    
+    #searchInput, #categoryFilter {
+        font-size: 14px;
+    }
+
+    #penaltyTable th, #penaltyTable td {
+        padding: 10px 15px;
+    }
+
+    .modal-content {
+        margin: 10% auto;
+        padding: 20px;
+    }
+}
+
+/* --- Splash Screen Styles --- */
+#splashScreen {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #0d162a; /* Dark background from header */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    z-index: 9999; /* Pastikan di atas segalanya */
+    opacity: 1;
+    transition: opacity 0.5s ease-out; /* Transisi saat fade out */
+}
+
+.logo-container {
+    text-align: center;
+    color: var(--color-accent);
+    animation: pulse 1.5s infinite alternate, glow 1.5s infinite alternate; /* Animasi berkedip dan bersinar */
+}
+
+.logo-text {
+    font-family: var(--font-mono);
+    font-size: 5rem; /* Ukuran besar untuk logo utama */
+    margin: 0;
+    font-weight: 700;
+    letter-spacing: 10px;
+    text-shadow: 0 0 15px rgba(0, 230, 118, 0.7); /* Efek glow neon */
+}
+
+#splashScreen p {
+    margin-top: 15px;
+    font-size: 1.2rem;
+    color: var(--color-primary);
+}
+
+/* Animasi untuk logo */
+@keyframes pulse {
+    from { opacity: 0.7; }
+    to { opacity: 1; }
+}
+@keyframes glow {
+    from { text-shadow: 0 0 10px rgba(0, 230, 118, 0.5); }
+    to { text-shadow: 0 0 20px rgba(0, 230, 118, 1); }
+}
+
+/* Class untuk menyembunyikan konten utama sampai splash hilang */
+.hidden-content {
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.5s;
+}

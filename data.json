@@ -1,0 +1,2201 @@
+[
+  {
+    "kode": "101(a)",
+    "nama": "Ancaman Kriminal (Fisik/Mati)",
+    "kategori": "TITLE I OF CRIME AGINST THE PERSON",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "30 menit penjara",
+    "denda": "$500",
+    "detail": [
+      "Seseorang yang mengkomunikasikan kepada orang lain bahwa mereka akan melukai secara fisik atau membunuh orang tersebut, sehingga menempatkan orang itu dalam keadaan takut yang wajar terhadap keamanannya sendiri — baik secara langsung, tertulis, atau melalui media, dianggap bersalah melakukan misdemeanor."
+    ]
+  },
+  {
+    "kode": "101(b)",
+    "nama": "Ancaman Kriminal (Kerabat)",
+    "kategori": "TITLE I OF CRIME AGINST THE PERSON",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "30 menit penjara",
+    "denda": "$500",
+    "detail": [
+      "Seseorang yang mengkomunikasikan bahwa mereka akan melukai secara fisik atau membunuh teman dekat atau kerabat orang lain — baik secara langsung, tertulis, atau melalui media, dianggap bersalah melakukan misdemeanor."
+    ]
+  },
+  {
+    "kode": "102",
+    "nama": "Assault (Penyerangan)",
+    "kategori": "TITLE I OF CRIME AGINST THE PERSON",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "25 menit penjara",
+    "denda": "$600",
+    "detail": [
+      "Seseorang yang secara ilegal mencoba dan memiliki kemampuan untuk melakukan cedera yang kekerasan pada orang lain dianggap bersalah melakukan misdemeanor."
+    ]
+  },
+  {
+    "kode": "103",
+    "nama": "Assault on a Peace Officer",
+    "kategori": "TITLE I OF CRIME AGINST THE PERSON",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "30 menit penjara",
+    "denda": "$650",
+    "detail": [
+      "Seseorang yang secara ilegal mencoba dan memiliki kemampuan untuk melakukan cedera yang kekerasan pada seorang petugas keamanan yang sedang menjalankan tugasnya dianggap bersalah melakukan misdemeanor."
+    ]
+  },
+  {
+    "kode": "104",
+    "nama": "Assault on a State Employee",
+    "kategori": "TITLE I OF CRIME AGINST THE PERSON",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "40 menit penjara",
+    "denda": "$700",
+    "detail": [
+      "Seseorang yang secara ilegal mencoba dan memiliki kemampuan untuk melakukan cedera yang kekerasan pada seorang pegawai negeri yang sedang menjalankan tugasnya dianggap bersalah melakukan misdemeanor."
+    ]
+  },
+  {
+    "kode": "105",
+    "nama": "Assault with a Deadly Weapon",
+    "kategori": "TITLE I OF CRIME AGINST THE PERSON",
+    "klasifikasi": "Felony",
+    "hukuman": "40 menit penjara",
+    "denda": "$1,150",
+    "detail": [
+      "Seseorang yang mencoba menyebabkan atau mengancam bahaya segera kepada orang lain dengan menggunakan senjata, alat, atau barang berbahaya lainnya untuk menyampaikan ancaman tersebut dianggap bersalah melakukan felony."
+    ]
+  },
+  {
+    "kode": "106",
+    "nama": "Assault with a Deadly Weapon on a Peace Officer",
+    "kategori": "TITLE I OF CRIME AGINST THE PERSON",
+    "klasifikasi": "Felony",
+    "hukuman": "50 menit penjara",
+    "denda": "$1,200",
+    "detail": [
+      "Seseorang yang mencoba menyebabkan atau mengancam bahaya segera kepada seorang petugas keamanan yang sedang menjalankan tugasnya, sambil menggunakan senjata, alat, atau barang berbahaya lainnya untuk menyampaikan ancaman tersebut, dianggap bersalah melakukan felony."
+    ]
+  },
+  {
+    "kode": "107",
+    "nama": "Battery (Pemukulan)",
+    "kategori": "TITLE I OF CRIME AGINST THE PERSON",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "24 menit penjara",
+    "denda": "$450",
+    "detail": [
+      "Seseorang yang menggunakan kekuatan atau kekerasan yang sengaja dan tidak sah untuk menyebabkan kerugian fisik kepada orang lain dianggap bersalah melakukan misdemeanor."
+    ]
+  },
+  {
+    "kode": "108",
+    "nama": "Battery on a Peace Officer",
+    "kategori": "TITLE I OF CRIME AGINST THE PERSON",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "30 menit penjara",
+    "denda": "$500",
+    "detail": [
+      "Seseorang yang menggunakan kekuatan atau kekerasan yang sengaja dan tidak sah untuk menyebabkan kerugian fisik kepada seorang petugas keamanan yang sedang menjalankan tugasnya dianggap bersalah melakukan misdemeanor."
+    ]
+  },
+  {
+    "kode": "109",
+    "nama": "Battery on a State Employee",
+    "kategori": "TITLE I OF CRIME AGINST THE PERSON",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "30 menit penjara",
+    "denda": "$500",
+    "detail": [
+      "Seseorang yang menggunakan kekuatan atau kekerasan yang sengaja dan tidak sah untuk menyebabkan kerugian fisik kepada seorang pegawai negeri yang sedang menjalankan tugasnya dianggap bersalah melakukan misdemeanor."
+    ]
+  },
+  {
+    "kode": "110(a)",
+    "nama": "Aggravated Battery (Kerugian Berat)",
+    "kategori": "TITLE I OF CRIME AGINST THE PERSON",
+    "klasifikasi": "Felony",
+    "hukuman": "36 menit penjara",
+    "denda": "$850",
+    "detail": [
+      "Seseorang yang menggunakan kekuatan atau kekerasan yang besar atau berkelanjutan terhadap orang lain dan menyebabkan kerugian berat dianggap bersalah melakukan felony."
+    ]
+  },
+  {
+    "kode": "110(b)",
+    "nama": "Aggravated Battery (Senjata Berbahaya)",
+    "kategori": "TITLE I OF CRIME AGINST THE PERSON",
+    "klasifikasi": "Felony",
+    "hukuman": "48 menit penjara",
+    "denda": "$900",
+    "detail": [
+      "Seseorang yang menggunakan senjata, alat, atau barang berbahaya lainnya untuk menyebabkan kerugian berat kepada orang lain dianggap bersalah melakukan felony."
+    ]
+  },
+  {
+    "kode": "111",
+    "nama": "Manslaughter (Pembunuhan Tidak Terencana)",
+    "kategori": "TITLE I OF CRIME AGINST THE PERSON",
+    "klasifikasi": "Felony",
+    "hukuman": "72 menit penjara",
+    "denda": "$1,000",
+    "detail": [
+      "Seseorang yang secara tidak sah membunuh manusia lain tanpa niat jahat dianggap bersalah melakukan felony.",
+      "a) Manslaughter (pembunuhan yang tidak direncanakan) bersifat sukarela ketika terjadi akibat pertengkaran mendadak atau emosi yang memuncak.",
+      "b) Manslaughter bersifat tidak sukarela ketika dilakukan dalam pelaksanaan tindakan tidak sah yang tidak mencapai tingkat felony; atau dalam pelaksanaan tindakan sah yang dapat menyebabkan kematian, secara tidak sah, atau tanpa perhatian yang cukup.",
+      "c) Manslaughter kendaraan terjadi ketika seseorang yang sedang mengemudikan kendaraan bermotor dengan cara yang berbahaya dan ceroboh menyebabkan kematian orang lain.",
+      "d) Seseorang yang saat menghindari petugas kepolisian dengan kendaraan bermotor, secara langsung atau tidak langsung menyebabkan kematian orang lain."
+    ]
+  },
+  {
+    "kode": "112(a)",
+    "nama": "False Imprisonment (Penahanan Tanpa Niat Terencana)",
+    "kategori": "TITLE I OF CRIME AGINST THE PERSON",
+    "klasifikasi": "Felony",
+    "hukuman": "36 menit penjara",
+    "denda": "$650",
+    "detail": [
+      "Seseorang yang menahan atau menangkap orang lain tanpa persetujuan mereka (atau persetujuan wali mereka) tanpa niat yang direncanakan atau tebusan dianggap bersalah melakukan felony. Ketentuan ini tidak berlaku untuk petugas penegak hukum yang menjalankan tugas mereka secara sah."
+    ]
+  },
+  {
+    "kode": "112(b)",
+    "nama": "False Imprisonment (Penangkapan Warga Tidak Sah)",
+    "kategori": "TITLE I OF CRIME AGINST THE PERSON",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "12 menit penjara",
+    "denda": "$250",
+    "detail": [
+      "Seseorang yang melakukan penangkapan warga yang tidak sah dianggap bersalah melakukan misdemeanor. Ketentuan ini juga tidak berlaku untuk petugas penegak hukum yang menjalankan tugas mereka secara sah."
+    ]
+  },
+  {
+    "kode": "113(a)",
+    "nama": "Kidnapping (Penculikan - Kekuatan/Ketakutan)",
+    "kategori": "TITLE I OF CRIME AGINST THE PERSON",
+    "klasifikasi": "Felony",
+    "hukuman": "48 menit penjara",
+    "denda": "$650",
+    "detail": [
+      "Seseorang yang mencuri atau mengambil, atau menahan, menangkap orang lain dengan kekuatan, atau dengan cara lain yang menimbulkan ketakutan, tanpa persetujuan mereka (atau persetujuan wali mereka) dan dengan niat yang direncanakan untuk melakukannya dianggap bersalah melakukan felony."
+    ]
+  },
+  {
+    "kode": "113(b)",
+    "nama": "Kidnapping (Tebusan/Pemerasan)",
+    "kategori": "TITLE I OF CRIME AGINST THE PERSON",
+    "klasifikasi": "Felony",
+    "hukuman": "56 menit penjara",
+    "denda": "$660",
+    "detail": [
+      "Seseorang yang merebut, mengurung, menggoda, menipu, menculik, menyembunyikan, atau mengangkut orang lain dengan cara apa pun dengan niat untuk menahan atau menangkap orang tersebut, atau yang menahan orang tersebut untuk tebusan, imbalan, atau untuk melakukan pemerasan atau untuk memaksa orang lain mendapatkan uang atau barang berharga dianggap bersalah melakukan felony."
+    ]
+  },
+  {
+    "kode": "114",
+    "nama": "Mayhem (Penyiksaan/Merusak Anggota Tubuh)",
+    "kategori": "TITLE I OF CRIME AGINST THE PERSON",
+    "klasifikasi": "Felony",
+    "hukuman": "82 menit penjara",
+    "denda": "$1,000",
+    "detail": [
+      "Seseorang yang menyebabkan rasa sakit dan penderitaan dengan tujuan balas dendam, pemerasan, persuasi, atau untuk tujuan sadis apa pun, atau;",
+      "Seseorang yang dengan sengaja merusak, melumpuhkan, atau menghancurkan atau merusak bagian tubuh atau area dari tubuh seseorang dianggap bersalah melakukan felony."
+    ]
+  },
+  {
+    "kode": "115(a)",
+    "nama": "Stalking (Mengikuti/Mengganggu)",
+    "kategori": "TITLE I OF CRIME AGINST THE PERSON",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "12 menit penjara",
+    "denda": "$350",
+    "detail": [
+      "Seseorang yang dengan sengaja dan berniat jahat mengikuti atau mengganggu orang lain yang telah menyatakan bahwa mereka tidak setuju dengan tindakan tersebut dianggap bersalah melakukan misdemeanor."
+    ]
+  },
+  {
+    "kode": "115(b)",
+    "nama": "Stalking (Melanggar Perintah Penahanan)",
+    "kategori": "TITLE I OF CRIME AGINST THE PERSON",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "16 menit penjara",
+    "denda": "$400",
+    "detail": [
+      "Seseorang yang melanggar perintah penahanan resmi yang dikeluarkan oleh pengadilan dianggap bersalah melakukan misdemeanor."
+    ]
+  },
+  {
+    "kode": "116(a)",
+    "nama": "Human Trafficking (Kerja/Seks Paksa)",
+    "kategori": "TITLE I OF CRIME AGINST THE PERSON",
+    "klasifikasi": "Felony",
+    "hukuman": "36 menit penjara",
+    "denda": "$750",
+    "detail": [
+      "Seseorang yang dengan sengaja membatasi kebebasan orang lain dengan niat untuk memaksa kerja atau perdagangan seks, atau kegiatan paksa lainnya dianggap bersalah melakukan felony."
+    ]
+  },
+  {
+    "kode": "116(b)",
+    "nama": "Human Trafficking (Menyelundupkan Orang Asing)",
+    "kategori": "TITLE I OF CRIME AGINST THE PERSON",
+    "klasifikasi": "Felony",
+    "hukuman": "24 menit penjara",
+    "denda": "$660",
+    "detail": [
+      "Seseorang yang dengan sengaja menyelinap orang asing ke dalam negara bagian tanpa visa dan otorisasi yang tepat dianggap bersalah melakukan felony."
+    ]
+  },
+  {
+    "kode": "185",
+    "nama": "Mengenakan Masker/Penyamaran untuk Menghindari Polisi",
+    "kategori": "TITLE I OF CRIME AGINST THE PERSON",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "4 menit penjara",
+    "denda": "$150",
+    "detail": [
+      "Seseorang yang mengenakan topeng, jenggot palsu, atau penyamaran pribadi (baik secara lengkap atau sebagian) untuk menghindari atau melarikan diri dari penemuan, pengenalan, atau identifikasi dalam melakukan pelanggaran publik, atau dalam penyembunyian, pelarian, atau pelarian, ketika didakwa, ditangkap, atau dihukum atas pelanggaran publik, dianggap bersalah melakukan misdemeanor."
+    ]
+  },
+  {
+    "kode": "187(a)",
+    "nama": "Murder Tingkat Pertama",
+    "kategori": "TITLE I OF CRIME AGINST THE PERSON",
+    "klasifikasi": "Felony",
+    "hukuman": "132 menit penjara",
+    "denda": "$1,500",
+    "detail": [
+      "First Degree of Murder; adalah seseorang yang secara ilegal membunuh orang lain dengan menggunakan alat penghancur atau bahan peledak, dengan mengetahui penggunaan amunisi yang dirancang khusus untuk menembus logam atau pelindung, racun, menunggu kesempatan, siksaan, atau dengan cara lain yang disengaja, atau sudah di rencanakan, deliberate, dan premeditated; Sebuah pembunuhan yang dilakukan terhadap seorang petugas keamanan yang sedang menjalankan tugasnya dianggap sebagai felony."
+    ]
+  },
+  {
+    "kode": "187(b)",
+    "nama": "Murder Tingkat Kedua",
+    "kategori": "TITLE I OF CRIME AGINST THE PERSON",
+    "klasifikasi": "Felony",
+    "hukuman": "120 menit penjara",
+    "denda": "$1,250",
+    "detail": [
+      "Second Degree of Murder; Seseorang yang secara ilegal membunuh manusia lain tanpa perencanaan dan deliberasi, tetapi dengan niat jahat sebelumnya, dianggap bersalah melakukan felony."
+    ]
+  },
+  {
+    "kode": "187(c)",
+    "nama": "Felony Murder",
+    "kategori": "TITLE I OF CRIME AGINST THE PERSON",
+    "klasifikasi": "Felony",
+    "hukuman": "120 menit penjara",
+    "denda": "$1,300",
+    "detail": [
+      "Felony murder terjadi ketika seseorang melakukan pembunuhan saat terlibat dalam suatu tindakan felony yang terbukti sebagai tindakan premeditated. Felony murder 187(c) akan didakwa bersamaan dengan tindakan felony asli yang dilakukan yang mengarah pada pembunuhan, dianggap bersalah melakukan felony."
+    ]
+  },
+  {
+    "kode": "188(a)",
+    "nama": "Attempted Murder (Premeditasi)",
+    "kategori": "TITLE I OF CRIME AGINST THE PERSON",
+    "klasifikasi": "Felony",
+    "hukuman": "56 menit penjara",
+    "denda": "$950",
+    "detail": [
+      "Seseorang yang dengan sengaja dan tegas mencoba untuk membunuh atau menyebabkan bahaya yang mengancam jiwa orang lain melalui tindakan premeditasi dianggap bersalah melakukan felony."
+    ]
+  },
+  {
+    "kode": "188(b)",
+    "nama": "Attempted Murder (Kecelakaan/Kelalaian Kriminal)",
+    "kategori": "TITLE I OF CRIME AGINST THE PERSON",
+    "klasifikasi": "Felony",
+    "hukuman": "48 menit penjara",
+    "denda": "$870",
+    "detail": [
+      "Seseorang yang, akibat kecelakaan kriminal, kelalaian, atau dalam keadaan emosi yang tinggi, menyebabkan kerusakan fisik yang parah atau mengancam jiwa orang lain dianggap bersalah melakukan felony."
+    ]
+  },
+  {
+    "kode": "211",
+    "nama": "Robbery (Perampokan)",
+    "kategori": "TITLE I OF CRIME AGINST THE PERSON",
+    "klasifikasi": "Felony",
+    "hukuman": "30 menit penjara",
+    "denda": "$650",
+    "detail": [
+      "Seseorang yang mengambil harta dari kepemilikan orang lain tanpa izin mereka, dengan menggunakan kekuatan atau rasa takut dianggap bersalah melakukan felony."
+    ]
+  },
+  {
+    "kode": "215",
+    "nama": "Carjacking",
+    "kategori": "TITLE I OF CRIME AGINST THE PERSON",
+    "klasifikasi": "Felony",
+    "hukuman": "30 menit penjara",
+    "denda": "$450",
+    "detail": [
+      "Seseorang yang mengambil kendaraan bermotor yang berada dalam kepemilikan orang lain, baik dari tangan atau kehadiran orang tersebut, atau dari kehadiran langsung seorang penumpang kendaraan bermotor, dengan menggunakan kekuatan atau rasa takut, dianggap bersalah melakukan felony."
+    ]
+  },
+  {
+    "kode": "216",
+    "nama": "Rape (Pemerkosaan)",
+    "kategori": "TITLE II OF CRIMES AGAINST THE PERSON INVOLVING SEXUAL ASSAULT AND CRIMES AGAINST PUBLIC DECENCY",
+    "klasifikasi": "Felony",
+    "hukuman": "56 menit penjara",
+    "denda": "$540",
+    "detail": [
+      "Seseorang yang memaksa orang lain untuk melakukan hubungan seksual atau,",
+      "Seseorang yang melakukan hubungan seksual tanpa persetujuan dengan orang lain, atau,",
+      "Seseorang yang melakukan hubungan seksual dengan orang lain yang tidak mampu, cacat, atau tidak dapat memberikan persetujuan, dianggap bersalah melakukan felony."
+    ]
+  },
+  {
+    "kode": "217",
+    "nama": "Lewd Or Dissolute Conduct In Public",
+    "kategori": "TITLE II OF CRIMES AGAINST THE PERSON INVOLVING SEXUAL ASSAULT AND CRIMES AGAINST PUBLIC DECENCY",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "12 menit penjara",
+    "denda": "$250",
+    "detail": [
+      "Seseorang yang meminta siapa pun untuk, atau terlibat dalam, perilaku seksual yang tidak pantas atau perilaku yang sugestif secara seksual di tempat umum atau di tempat yang terbuka untuk umum atau terlihat oleh publik dianggap bersalah melakukan misdemeanor."
+    ]
+  },
+  {
+    "kode": "218(a)",
+    "nama": "Indecent Exposure (Tanah Publik)",
+    "kategori": "TITLE II OF CRIMES AGAINST THE PERSON INVOLVING SEXUAL ASSAULT AND CRIMES AGAINST PUBLIC DECENCY",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "14 menit penjara",
+    "denda": "$300",
+    "detail": [
+      "Seseorang yang dengan sengaja memperlihatkan tubuh telanjang atau genitalia mereka di tanah publik atau di area publik dari bisnis yang dimiliki secara pribadi dianggap bersalah melakukan misdemeanor."
+    ]
+  },
+  {
+    "kode": "218(b)",
+    "nama": "Indecent Exposure (Tanah Pribadi)",
+    "kategori": "TITLE II OF CRIMES AGAINST THE PERSON INVOLVING SEXUAL ASSAULT AND CRIMES AGAINST PUBLIC DECENCY",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "12 menit penjara",
+    "denda": "$250",
+    "detail": [
+      "Seseorang yang dengan sengaja memperlihatkan tubuh telanjang atau genitalia mereka di tanah pribadi tanpa izin dari pemilik tanah dianggap bersalah melakukan misdemeanor."
+    ]
+  },
+  {
+    "kode": "218(c)",
+    "nama": "Indecent Exposure (Depan Anak di Bawah Umur)",
+    "kategori": "TITLE II OF CRIMES AGAINST THE PERSON INVOLVING SEXUAL ASSAULT AND CRIMES AGAINST PUBLIC DECENCY",
+    "klasifikasi": "Felony",
+    "hukuman": "18 menit penjara",
+    "denda": "$350",
+    "detail": [
+      "Seseorang yang terlibat dalam seks atau aktivitas seksual lainnya di depan anak di bawah umur dianggap bersalah melakukan felony."
+    ]
+  },
+  {
+    "kode": "219",
+    "nama": "Sexual Assault (Serangan Seksual)",
+    "kategori": "TITLE II OF CRIMES AGAINST THE PERSON INVOLVING SEXUAL ASSAULT AND CRIMES AGAINST PUBLIC DECENCY",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "24 menit penjara",
+    "denda": "$450",
+    "detail": [
+      "Seseorang yang melakukan penghinaan verbal untuk tujuan penggairahan seksual, gratifikasi, atau penyalahgunaan atau;",
+      "Seseorang yang mengancam bahaya yang akan segera terjadi atau kontak seksual yang tidak disetujui atau membuat orang lain percaya akan adanya bahaya yang akan segera terjadi atau kontak seksual yang tidak disetujui dianggap bersalah melakukan misdemeanor."
+    ]
+  },
+  {
+    "kode": "220(a)",
+    "nama": "Sexual Battery (Sentuhan Tidak Diinginkan)",
+    "kategori": "TITLE II OF CRIMES AGAINST THE PERSON INVOLVING SEXUAL ASSAULT AND CRIMES AGAINST PUBLIC DECENCY",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "30 menit penjara",
+    "denda": "$350",
+    "detail": [
+      "Seseorang yang melakukan sentuhan yang tidak diinginkan atau kontak seksual dianggap bersalah melakukan misdemeanor."
+    ]
+  },
+  {
+    "kode": "220(b)",
+    "nama": "Sexual Battery (Agresif)",
+    "kategori": "TITLE II OF CRIMES AGAINST THE PERSON INVOLVING SEXUAL ASSAULT AND CRIMES AGAINST PUBLIC DECENCY",
+    "klasifikasi": "Felony",
+    "hukuman": "36 menit penjara",
+    "denda": "$550",
+    "detail": [
+      "Seseorang yang menyebabkan serangan atau kontak fisik agresif serupa untuk tujuan penggairahan seksual, gratifikasi, atau penyalahgunaan dianggap bersalah melakukan felony."
+    ]
+  },
+  {
+    "kode": "221",
+    "nama": "Prostitution (Prostitusi)",
+    "kategori": "TITLE II OF CRIMES AGAINST THE PERSON INVOLVING SEXUAL ASSAULT AND CRIMES AGAINST PUBLIC DECENCY",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "8 menit penjara",
+    "denda": "$150",
+    "detail": [
+      "Seseorang yang dengan sadar terlibat dalam tindakan seksual sebagai imbalan untuk pembayaran, barang, layanan, atau barang lainnya yang bernilai dianggap bersalah melakukan misdemeanor."
+    ]
+  },
+  {
+    "kode": "222",
+    "nama": "Solicitation of a Prostitute (Mengajak Prostitusi)",
+    "kategori": "TITLE II OF CRIMES AGAINST THE PERSON INVOLVING SEXUAL ASSAULT AND CRIMES AGAINST PUBLIC DECENCY",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "8 menit penjara",
+    "denda": "$150",
+    "detail": [
+      "Seseorang yang menawarkan pembayaran, barang, layanan, atau barang lainnya yang bernilai kepada seseorang sebagai imbalan untuk tindakan seksual dianggap bersalah melakukan misdemeanor."
+    ]
+  },
+  {
+    "kode": "223",
+    "nama": "Pandering / Pimping (Mucikari)",
+    "kategori": "TITLE II OF CRIMES AGAINST THE PERSON INVOLVING SEXUAL ASSAULT AND CRIMES AGAINST PUBLIC DECENCY",
+    "klasifikasi": "Felony",
+    "hukuman": "20 menit penjara",
+    "denda": "$350",
+    "detail": [
+      "Seseorang yang mengajak atau mengiklankan, membantu atau menyediakan transportasi atau mengawasi orang-orang yang terlibat dalam prostitusi dan mempertahankan sebagian atau seluruh uang yang dihasilkan dianggap bersalah melakukan felony."
+    ]
+  },
+  {
+    "kode": "224",
+    "nama": "Statutory Rape (Pemerkosaan di Bawah Umur)",
+    "kategori": "TITLE II OF CRIMES AGAINST THE PERSON INVOLVING SEXUAL ASSAULT AND CRIMES AGAINST PUBLIC DECENCY",
+    "klasifikasi": "Felony",
+    "hukuman": "18 menit penjara",
+    "denda": "$250",
+    "detail": [
+      "Seseorang yang terlibat dalam hubungan seksual yang saling menguntungkan dengan orang lain yang berusia di bawah 18 tahun dan oleh karena itu tidak dapat memberikan persetujuan hukum dianggap bersalah melakukan felony."
+    ]
+  },
+  {
+    "kode": "225",
+    "nama": "Child Abuse (Kekerasan pada Anak)",
+    "kategori": "TITLE II OF CRIMES AGAINST THE PERSON INVOLVING SEXUAL ASSAULT AND CRIMES AGAINST PUBLIC DECENCY",
+    "klasifikasi": "Felony",
+    "hukuman": "35 menit penjara",
+    "denda": "$550",
+    "detail": [
+      "Seseorang yang dengan sengaja menyebabkan siksaan yang kejam, berlebihan, atau tidak manusiawi terhadap anak di bawah 18 tahun atau;",
+      "Seseorang yang dengan sengaja menyebabkan cedera pada anak di bawah 18 tahun, yang mengakibatkan kerugian traumatis atau;",
+      "Seseorang yang menyebabkan cedera traumatis pada anak di bawah 18 tahun akibat kelalaian mereka dianggap bersalah melakukan felony."
+    ]
+  },
+  {
+    "kode": "226",
+    "nama": "Possession of Child Pornography",
+    "kategori": "TITLE II OF CRIMES AGAINST THE PERSON INVOLVING SEXUAL ASSAULT AND CRIMES AGAINST PUBLIC DECENCY",
+    "klasifikasi": "Felony",
+    "hukuman": "65 menit penjara",
+    "denda": "$1,000",
+    "detail": [
+      "Setiap orang yang dengan sengaja memiliki gambar, film, video, atau perangkat penyimpanan yang berisi konten seorang anak di bawah 18 tahun yang terlibat atau meniru perilaku seksual dianggap bersalah melakukan felony."
+    ]
+  },
+  {
+    "kode": "227",
+    "nama": "Solicitation of a Minor (Mengajak Anak di Bawah Umur)",
+    "kategori": "TITLE II OF CRIMES AGAINST THE PERSON INVOLVING SEXUAL ASSAULT AND CRIMES AGAINST PUBLIC DECENCY",
+    "klasifikasi": "Felony",
+    "hukuman": "24 menit penjara",
+    "denda": "$450",
+    "detail": [
+      "Setiap orang yang berkomunikasi dengan seorang anak di bawah umur dan selama komunikasi tersebut, meminta untuk bertemu dengan tujuan melakukan tindakan seksual, atau;",
+      "Setiap orang yang, setelah berkomunikasi dengan seorang anak di bawah umur untuk tujuan melakukan tindakan seksual, menghadiri pertemuan yang telah diatur pada waktu yang telah ditentukan, atau;",
+      "Setiap orang yang mengirimkan materi eksplisit atau obscene kepada seorang anak di bawah umur dengan tujuan untuk menggoda anak tersebut, dianggap bersalah melakukan felony."
+    ]
+  },
+  {
+    "kode": "228",
+    "nama": "Minor Alcohol Violation (Anak di Bawah Umur - Alkohol)",
+    "kategori": "TITLE II OF CRIMES AGAINST THE PERSON INVOLVING SEXUAL ASSAULT AND CRIMES AGAINST PUBLIC DECENCY",
+    "klasifikasi": "Infraction",
+    "hukuman": "N/A",
+    "denda": "$2,500",
+    "detail": [
+      "Seorang anak di bawah umur yang berusia di bawah 21 tahun yang memiliki alkohol untuk dikonsumsi, produk yang mengandung alkohol, atau yang terlihat sedang berada di bawah pengaruh alkohol, akan dikenakan infraction sebesar $2,500."
+    ]
+  },
+  {
+    "kode": "229",
+    "nama": "Sale of Alcohol to a Minor (Menjual Alkohol ke Anak di Bawah Umur)",
+    "kategori": "TITLE II OF CRIMES AGAINST THE PERSON INVOLVING SEXUAL ASSAULT AND CRIMES AGAINST PUBLIC DECENCY",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "4 menit penjara",
+    "denda": "$50",
+    "detail": [
+      "Seorang yang dengan sengaja dan mengetahui menjual alkohol atau produk yang mengandung alkohol kepada anak di bawah umur yang berusia di bawah 21 tahun adalah guilty dari sebuah misdemeanor."
+    ]
+  },
+  {
+    "kode": "230(a)",
+    "nama": "Animal Abuse / Cruelty (Sengaja)",
+    "kategori": "TITLE II OF CRIMES AGAINST THE PERSON INVOLVING SEXUAL ASSAULT AND CRIMES AGAINST PUBLIC DECENCY",
+    "klasifikasi": "Felony",
+    "hukuman": "16 menit penjara",
+    "denda": "$200",
+    "detail": [
+      "Seorang yang dengan sengaja melukai, mencabik, menyiksa, melukai, atau membunuh hewan hidup adalah guilty dari sebuah felony.",
+      "Pengecualian: Pemburu dibebaskan dari 230(a) ketika dengan sengaja membunuh hewan buruan saat sedang berburu. Setiap pemburu yang dengan sengaja melukai, mencabik, menyiksa, atau melukai hewan sebelum membunuhnya adalah bersalah dari 230(a). Setiap orang dalam profesi yang mengharuskan pembunuhan hewan juga dibebaskan dari 230(a). Pemburu harus berhati-hati untuk tidak menyebabkan penderitaan yang tidak perlu."
+    ]
+  },
+  {
+    "kode": "230(b)",
+    "nama": "Animal Abuse / Cruelty (Kelalaian)",
+    "kategori": "TITLE II OF CRIMES AGAINST THE PERSON INVOLVING SEXUAL ASSAULT AND CRIMES AGAINST PUBLIC DECENCY",
+    "klasifikasi": "Felony",
+    "hukuman": "12 menit penjara",
+    "denda": "$150",
+    "detail": [
+      "Seorang yang karena kelalaian melukai, mencabik, menyiksa, melukai, atau membunuh hewan hidup adalah guilty dari sebuah felony."
+    ]
+  },
+  {
+    "kode": "232",
+    "nama": "Sale of Tobacco to a Minor (Menjual Tembakau ke Anak di Bawah Umur)",
+    "kategori": "TITLE II OF CRIMES AGAINST THE PERSON INVOLVING SEXUAL ASSAULT AND CRIMES AGAINST PUBLIC DECENCY",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "4 menit penjara",
+    "denda": "$50",
+    "detail": [
+      "Seorang yang dengan sengaja dan mengetahui menjual alkohol atau produk yang mengandung tobacco kepada seorang minor di bawah usia 21 tahun adalah guilty dari sebuah misdemeanor."
+    ]
+  },
+  {
+    "kode": "301",
+    "nama": "Littering (Membuang Sampah Sembarangan)",
+    "kategori": "TITLE III OF CRIMES AGAINST PUBLIC HEALTH AND SAFETY",
+    "klasifikasi": "Infraction",
+    "hukuman": "N/A",
+    "denda": "$300",
+    "detail": [
+      "Tindakan yang disengaja atau kelalaian melempar, menjatuhkan, menempatkan, atau menyebabkan terjadinya tindakan seperti itu, terhadap sampah termasuk namun tidak terbatas pada rokok yang menyala atau tidak menyala, cerutu, koreks api, atau sampah, barang bekas, limbah, kertas, wadah, kemasan, atau objek lain yang mungkin melukai seseorang atau menciptakan bahaya lalu lintas akan dikenakan infraction sebesar $300."
+    ]
+  },
+  {
+    "kode": "302",
+    "nama": "Illegally Discharging a Firearm",
+    "kategori": "TITLE III OF CRIMES AGAINST PUBLIC HEALTH AND SAFETY",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "4 menit penjara",
+    "denda": "$100",
+    "detail": [
+      "Kecuali sebagaimana diatur oleh hukum, setiap orang yang dengan sengaja melepaskan tembakan dengan cara yang sangat ceroboh yang dapat mengakibatkan cedera atau kematian seseorang, adalah bersalah melakukan misdemeanor."
+    ]
+  },
+  {
+    "kode": "303",
+    "nama": "Shooting At An Inhabited Dwelling Or Occupied Car",
+    "kategori": "TITLE III OF CRIMES AGAINST PUBLIC HEALTH AND SAFETY",
+    "klasifikasi": "Felony",
+    "hukuman": "36 menit penjara",
+    "denda": "$550",
+    "detail": [
+      "Setiap orang yang dengan niat jahat dan sengaja melepaskan tembakan ke arah rumah yang dihuni, gedung yang ditempati, kendaraan bermotor yang dihuni, pesawat yang ditempati, atau trailer yang dihuni, adalah guilty melakukan felony."
+    ]
+  },
+  {
+    "kode": "304",
+    "nama": "Possession of a Controlled Substance Other than Marijuana",
+    "kategori": "TITLE III OF CRIMES AGAINST PUBLIC HEALTH AND SAFETY",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "4 menit penjara",
+    "denda": "$100",
+    "detail": [
+      "Setiap orang yang memiliki zat terkontrol, kecuali jika zat tersebut telah diberikan secara sah oleh seorang praktisi medis yang berlisensi atau tersedia secara legal tanpa resep, adalah bersalah melakukan misdemeanor."
+    ]
+  },
+  {
+    "kode": "305",
+    "nama": "Possession of a Controlled Substance Other than Marijuana with Intent To Sell",
+    "kategori": "TITLE III OF CRIMES AGAINST PUBLIC HEALTH AND SAFETY",
+    "klasifikasi": "Felony",
+    "hukuman": "24 menit penjara",
+    "denda": "$350",
+    "detail": [
+      "Setiap orang yang memiliki zat terkontrol atau beberapa zat terkontrol lainnya selain ganja dalam jumlah lebih dari 10 gram adalah bersalah melakukan felony."
+    ]
+  },
+  {
+    "kode": "306",
+    "nama": "Possession of Drug Paraphernalia",
+    "kategori": "TITLE III OF CRIMES AGAINST PUBLIC HEALTH AND SAFETY",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "4 menit penjara",
+    "denda": "$50",
+    "detail": [
+      "Setiap orang yang dengan sengaja memiliki alat atau mekanisme yang digunakan secara eksklusif untuk memproses atau mengonsumsi zat terkontrol ilegal adalah bersalah melakukan misdemeanor."
+    ]
+  },
+  {
+    "kode": "307",
+    "nama": "Maintaining A Place For The Purpose Of Distribution",
+    "kategori": "TITLE III OF CRIMES AGAINST PUBLIC HEALTH AND SAFETY",
+    "klasifikasi": "Felony",
+    "hukuman": "28 menit penjara",
+    "denda": "$450",
+    "detail": [
+      "Setiap orang yang membuka atau memelihara properti dengan tujuan untuk secara ilegal menjual, memberikan, menyimpan, atau menggunakan zat terkontrol, senjata api, atau perangkat, barang, atau layanan ilegal lainnya adalah bersalah melakukan felony."
+    ]
+  },
+  {
+    "kode": "308",
+    "nama": "Manufacture of a Controlled Substance",
+    "kategori": "TITLE III OF CRIMES AGAINST PUBLIC HEALTH AND SAFETY",
+    "klasifikasi": "Felony",
+    "hukuman": "48 menit penjara",
+    "denda": "$550",
+    "detail": [
+      "Setiap orang yang, kecuali ditentukan lain oleh hukum, memproduksi, meramu, mengubah, menghasilkan, atau menyiapkan, baik secara langsung maupun tidak langsung melalui ekstraksi kimia atau alami, zat ilegal adalah bersalah melakukan felony."
+    ]
+  },
+  {
+    "kode": "309",
+    "nama": "Sale of a Controlled Substance Other than Marijuana",
+    "kategori": "TITLE III OF CRIMES AGAINST PUBLIC HEALTH AND SAFETY",
+    "klasifikasi": "Felony",
+    "hukuman": "36 menit penjara",
+    "denda": "$350",
+    "detail": [
+      "Setiap orang yang menjual, atau memiliki niat untuk menjual, zat terkontrol kepada orang lain, terlepas dari apakah mereka memiliki zat terkontrol tersebut atau tidak, adalah guilty melakukan felony."
+    ]
+  },
+  {
+    "kode": "310",
+    "nama": "Sale of a Controlled Substance (Ganja/Obat Resep)",
+    "kategori": "TITLE III OF CRIMES AGAINST PUBLIC HEALTH AND SAFETY",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "14 menit penjara",
+    "denda": "$150",
+    "detail": [
+      "Setiap orang yang menjual, atau memiliki niat untuk menjual, ganja atau obat resep kepada orang lain, terlepas dari apakah mereka memiliki zat terkontrol tersebut atau tidak, adalah guilty melakukan misdemeanor."
+    ]
+  },
+  {
+    "kode": "311",
+    "nama": "Possession of an Open Container (Wadah Terbuka)",
+    "kategori": "TITLE III OF CRIMES AGAINST PUBLIC HEALTH AND SAFETY",
+    "klasifikasi": "Infraction",
+    "hukuman": "N/A",
+    "denda": "$500",
+    "detail": [
+      "Seseorang yang memiliki wadah alkohol yang terlihat dan terbuka di tempat umum atau di dalam kendaraan bermotor akan dikenakan infraction sebesar $500."
+    ]
+  },
+  {
+    "kode": "312",
+    "nama": "Public Intoxication (Mabuk di Tempat Umum)",
+    "kategori": "TITLE III OF CRIMES AGAINST PUBLIC HEALTH AND SAFETY",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "4 menit penjara",
+    "denda": "$40",
+    "detail": [
+      "Seseorang yang ditemukan di tempat umum di bawah pengaruh minuman beralkohol bersifat memabukkan adalah bersalah melakukan misdemeanor."
+    ]
+  },
+  {
+    "kode": "313(a)",
+    "nama": "Under The Influence of a Controlled Substance (Selain Ganja)",
+    "kategori": "TITLE III OF CRIMES AGAINST PUBLIC HEALTH AND SAFETY",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "5 menit penjara",
+    "denda": "$50",
+    "detail": [
+      "Seseorang yang menggunakan atau berada di bawah pengaruh zat terlarang atau zat berbahaya tanpa izin atau resep yang sah untuk menggunakan zat tersebut adalah bersalah melakukan misdemeanor."
+    ]
+  },
+  {
+    "kode": "313(b)",
+    "nama": "Under The Influence of Marijuana",
+    "kategori": "TITLE III OF CRIMES AGAINST PUBLIC HEALTH AND SAFETY",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "4 menit penjara",
+    "denda": "$30",
+    "detail": [
+      "Seseorang yang menggunakan atau berada di bawah pengaruh ganja di tempat umum, atau saat melakukan kejahatan lainnya, adalah bersalah melakukan misdemeanor."
+    ]
+  },
+  {
+    "kode": "314(a)",
+    "nama": "Possession of Marijuana (> 5 gram)",
+    "kategori": "TITLE III OF CRIMES AGAINST PUBLIC HEALTH AND SAFETY",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "6 menit penjara",
+    "denda": "$50",
+    "detail": [
+      "Seseorang yang memiliki lebih dari 5 gram adalah bersalah atas misdemeanor."
+    ]
+  },
+  {
+    "kode": "314(b)",
+    "nama": "Possession of Marijuana (Usia < 21, hingga 5 gram)",
+    "kategori": "TITLE III OF CRIMES AGAINST PUBLIC HEALTH AND SAFETY",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "4 menit penjara",
+    "denda": "$40",
+    "detail": [
+      "Seseorang yang berusia di bawah 21 tahun yang memiliki hingga 5 gram adalah bersalah atas misdemeanor."
+    ]
+  },
+  {
+    "kode": "314(c)",
+    "nama": "Possession of Marijuana (Usia < 18, hingga 5 gram)",
+    "kategori": "TITLE III OF CRIMES AGAINST PUBLIC HEALTH AND SAFETY",
+    "klasifikasi": "Infraction",
+    "hukuman": "N/A",
+    "denda": "$200",
+    "detail": [
+      "Seseorang yang berusia di bawah 18 tahun yang memiliki hingga 5 gram akan dikenakan infraction sebesar $200."
+    ]
+  },
+  {
+    "kode": "315",
+    "nama": "Possession of an Unlicensed Firearm (Kepemilikan Senjata Api Tanpa Lisensi)",
+    "kategori": "TITLE III OF CRIMES AGAINST PUBLIC HEALTH AND SAFETY",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "40 menit penjara",
+    "denda": "$450",
+    "detail": [
+      "Seseorang yang membawa senjata yang legal tetapi tanpa lisensi di tubuhnya, dalam kendaraan, tempat usaha, atau fasilitas lain tanpa izin yang sesuai adalah bersalah atas misdemeanor."
+    ]
+  },
+  {
+    "kode": "316",
+    "nama": "Possession of a Destructive Device (Kepemilikan Alat Perusak)",
+    "kategori": "TITLE III OF CRIMES AGAINST PUBLIC HEALTH AND SAFETY",
+    "klasifikasi": "Felony",
+    "hukuman": "30 menit penjara",
+    "denda": "$450",
+    "detail": [
+      "Seseorang yang memiliki alat atau perangkat yang dibuat dari bahan peledak dan/atau cairan yang sangat mudah terbakar, gas, atau bahan padat adalah bersalah atas felony."
+    ]
+  },
+  {
+    "kode": "317",
+    "nama": "Manufacture of a Destructive Device or Prohibited Weapon",
+    "kategori": "TITLE III OF CRIMES AGAINST PUBLIC HEALTH AND SAFETY",
+    "klasifikasi": "Felony",
+    "hukuman": "32 menit penjara",
+    "denda": "$500",
+    "detail": [
+      "Seseorang yang memproduksi, merakit, membongkar, atau memiliki bagian dari senjata yang berbahaya, peledak, perangkap, senjata api, pisau, atau alat perusak lainnya adalah bersalah atas felony."
+    ]
+  },
+  {
+    "kode": "318",
+    "nama": "Illegal Sale, Lease, or Transfer of a Firearm (Penjualan/Transfer Senjata Ilegal)",
+    "kategori": "TITLE III OF CRIMES AGAINST PUBLIC HEALTH AND SAFETY",
+    "klasifikasi": "Felony",
+    "hukuman": "60 menit penjara",
+    "denda": "$800",
+    "detail": [
+      "Seseorang yang menjual, menyewakan, atau mentransfer senjata api kepada orang lain tanpa Federal Firearms License adalah bersalah atas felony.",
+      "Tuduhan ini dapat digabungkan dengan setiap senjata api yang dijual, disewakan, atau ditransfer secara ilegal.",
+      "Transfer senjata api antara orang tua dan anak atau nenek dan cucu dikecualikan dari persyaratan Federal Firearms License."
+    ]
+  },
+  {
+    "kode": "319(a)",
+    "nama": "Drive-By Shooting (Izin Menembak dari Kendaraan)",
+    "kategori": "TITLE III OF CRIMES AGAINST PUBLIC HEALTH AND SAFETY",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "16 menit penjara",
+    "denda": "$350",
+    "detail": [
+      "Seorang pengemudi atau pemilik kendaraan bermotor yang dengan sengaja mengizinkan orang lain untuk menembakkan senjata api dari kendaraan tersebut adalah bersalah atas misdemeanor."
+    ]
+  },
+  {
+    "kode": "319(b)",
+    "nama": "Drive-By Shooting (Menembak dari Kendaraan)",
+    "kategori": "TITLE III OF CRIMES AGAINST PUBLIC HEALTH AND SAFETY",
+    "klasifikasi": "Felony",
+    "hukuman": "30 menit penjara",
+    "denda": "$400",
+    "detail": [
+      "Seseorang yang menembakkan senjata api dari kendaraan bermotor ke arah orang lain adalah bersalah atas felony."
+    ]
+  },
+  {
+    "kode": "320",
+    "nama": "Weapons License Violation (Pelanggaran Lisensi Senjata)",
+    "kategori": "TITLE III OF CRIMES AGAINST PUBLIC HEALTH AND SAFETY",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "50 menit penjara",
+    "denda": "$500",
+    "detail": [
+      "Seseorang yang membawa senjata api secara tersembunyi dengan memiliki CCW license dan melakukan hal-hal berikut adalah bersalah atas misdemeanor: Masuk ke area yang dilarang seperti yang ditentukan oleh negara bagian, termasuk sekolah, gedung pengadilan, atau bisnis yang menjual alkohol untuk dikonsumsi.",
+      "Menolak untuk menunjukkan CCW license mereka.",
+      "Gagal memberi tahu penegak hukum tentang membawa senjata dalam kendaraan saat dihentikan.",
+      "Menolak untuk menyerahkan senjata tersembunyi kepada petugas keamanan saat diminta.",
+      "Mengonsumsi alkohol saat aktif membawa senjata api tersembunyi.",
+      "Pelanggaran regulasi senjata api lainnya yang ditetapkan oleh agen lisensi yang sesuai."
+    ]
+  },
+  {
+    "kode": "321",
+    "nama": "Failure to Report a Stolen Firearm (Gagal Melaporkan Senjata Hilang)",
+    "kategori": "TITLE III OF CRIMES AGAINST PUBLIC HEALTH AND SAFETY",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "40 menit penjara",
+    "denda": "$500",
+    "detail": [
+      "Seseorang yang gagal melaporkan senjata api mereka sebagai hilang dalam waktu empat puluh delapan (48) jam setelah mengetahui atau memiliki alasan yang masuk akal bahwa senjata api tersebut hilang adalah bersalah atas misdemeanor."
+    ]
+  },
+  {
+    "kode": "322",
+    "nama": "Illegal Distribution of Ammunition (Distribusi Amunisi Ilegal)",
+    "kategori": "TITLE III OF CRIMES AGAINST PUBLIC HEALTH AND SAFETY",
+    "klasifikasi": "Felony",
+    "hukuman": "30 menit penjara",
+    "denda": "$550",
+    "detail": [
+      "Seseorang yang menjual atau mendistribusikan amunisi dengan cara lain adalah bersalah atas felony."
+    ]
+  },
+  {
+    "kode": "323(a)",
+    "nama": "Terrorism (Ancaman/Tindakan Sistematis)",
+    "kategori": "TITLE III OF CRIMES AGAINST PUBLIC HEALTH AND SAFETY",
+    "klasifikasi": "Felony",
+    "hukuman": "Hukuman seumur hidup",
+    "denda": "N/A",
+    "detail": [
+      "Seseorang yang menggunakan ancaman atau tindakan sistematis terhadap kepentingan umum untuk menimbulkan ketakutan dan intimidasi dalam skala besar adalah bersalah atas felony."
+    ]
+  },
+  {
+    "kode": "323(b)",
+    "nama": "Terrorism (Serangan Fasilitas Publik)",
+    "kategori": "TITLE III OF CRIMES AGAINST PUBLIC HEALTH AND SAFETY",
+    "klasifikasi": "Felony",
+    "hukuman": "Hukuman seumur hidup",
+    "denda": "N/A",
+    "detail": [
+      "Seseorang yang melakukan serangan atau mengancam serangan terhadap fasilitas publik atau pribadi yang besar, seperti kompleks perkantoran, stadion, sistem transportasi publik, jembatan, atau struktur lainnya adalah bersalah atas felony."
+    ]
+  },
+  {
+    "kode": "324",
+    "nama": "Treason (Pengkhianatan)",
+    "kategori": "TITLE III OF CRIMES AGAINST PUBLIC HEALTH AND SAFETY",
+    "klasifikasi": "Felony",
+    "hukuman": "Hukuman seumur hidup",
+    "denda": "N/A",
+    "detail": [
+      "Seseorang yang melakukan perang terhadap negara bagian San Andreas, berpegang pada musuh negara tersebut, atau memberikan bantuan dan kenyamanan kepada mereka sementara tetap setia kepada negara adalah bersalah atas felony."
+    ]
+  },
+  {
+    "kode": "459",
+    "nama": "Burglary (Pembobolan)",
+    "kategori": "TITLE IV OF CRIMES AGAINST PROPERTY",
+    "klasifikasi": "Felony",
+    "hukuman": "20 menit penjara",
+    "denda": "$250",
+    "detail": [
+      "Seseorang yang memasuki rumah, kamar, apartemen, toko, atau bangunan lainnya, atau kendaraan bermotor dengan niat untuk melakukan pencurian kecil, pencurian besar, atau felony lainnya adalah bersalah atas felony."
+    ]
+  },
+  {
+    "kode": "501(a)",
+    "nama": "Embezzlement (Penggelapan - Misdemeanor)",
+    "kategori": "TITLE IV OF CRIMES AGAINST PROPERTY",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "8 menit penjara",
+    "denda": "$50",
+    "detail": [
+      "Seseorang yang secara curang mengambil barang yang telah dipercayakan kepada mereka oleh orang lain adalah bersalah atas misdemeanor."
+    ]
+  },
+  {
+    "kode": "501(b)",
+    "nama": "Embezzlement (Penggelapan Pegawai Negara)",
+    "kategori": "TITLE IV OF CRIMES AGAINST PROPERTY",
+    "klasifikasi": "Felony",
+    "hukuman": "20 menit penjara",
+    "denda": "$250",
+    "detail": [
+      "Seorang pegawai negara yang secara curang memperoleh atau menggunakan barang yang berada dalam kepemilikan atau pengendaliannya berdasarkan kepercayaan tersebut adalah bersalah atas felony."
+    ]
+  },
+  {
+    "kode": "502(a)",
+    "nama": "Arson (Pembakaran Sengaja)",
+    "kategori": "TITLE IV OF CRIMES AGAINST PROPERTY",
+    "klasifikasi": "Felony",
+    "hukuman": "32 menit penjara",
+    "denda": "$550",
+    "detail": [
+      "Seseorang yang dengan sengaja dan jahat membakar atau membakar struktur, tanah hutan, atau barang tanpa izin sebelumnya adalah bersalah atas felony."
+    ]
+  },
+  {
+    "kode": "502(b)",
+    "nama": "Arson (Pembakaran Kelalaian)",
+    "kategori": "TITLE IV OF CRIMES AGAINST PROPERTY",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "4 menit penjara",
+    "denda": "$50",
+    "detail": [
+      "Seseorang yang, melalui kecelakaan kriminal atau kelalaian, menyebabkan kebakaran yang membakar struktur, tanah hutan, atau barang adalah bersalah atas misdemeanor."
+    ]
+  },
+  {
+    "kode": "503",
+    "nama": "Possession of Burglary Tools (Kepemilikan Alat Pembobolan)",
+    "kategori": "TITLE IV OF CRIMES AGAINST PROPERTY",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "8 menit penjara",
+    "denda": "$20",
+    "detail": [
+      "Seseorang yang memiliki kombinasi alat yang tepat dan niat untuk melakukan pencurian, seperti batang tensa, obeng, shimmy, atau barang lainnya yang sesuai adalah bersalah atas misdemeanor."
+    ]
+  },
+  {
+    "kode": "504",
+    "nama": "Forgery (Pemalsuan Tanda Tangan)",
+    "kategori": "TITLE IV OF CRIMES AGAINST PROPERTY",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "6 menit penjara",
+    "denda": "$50",
+    "detail": [
+      "Seseorang yang, dengan niat untuk menipu atau membohongi orang lain, menandatangani nama orang lain atau nama fiktif adalah bersalah atas misdemeanor."
+    ]
+  },
+  {
+    "kode": "505",
+    "nama": "Forgery of a State Document (Pemalsuan Dokumen Negara)",
+    "kategori": "TITLE IV OF CRIMES AGAINST PROPERTY",
+    "klasifikasi": "Felony",
+    "hukuman": "15 menit penjara",
+    "denda": "$250",
+    "detail": [
+      "Seseorang yang, dengan niat untuk menipu atau membohongi orang lain, secara sengaja mengubah, membuat, memiliki, atau mendistribusikan surat izin mengemudi yang palsu, surat izin pilot, kartu identitas yang dikeluarkan oleh agen pemerintah, atau izin senjata yang dikeluarkan oleh agen pemerintah adalah bersalah atas felony."
+    ]
+  },
+  {
+    "kode": "506",
+    "nama": "Counterfeiting (Uang Palsu)",
+    "kategori": "TITLE IV OF CRIMES AGAINST PROPERTY",
+    "klasifikasi": "Felony",
+    "hukuman": "12 menit penjara",
+    "denda": "$124",
+    "detail": [
+      "Seseorang yang membuat atau sengaja memiliki alat seperti dadu, pelat, kertas, logam, atau mesin yang digunakan untuk memproduksi uang palsu, tagihan, koin, atau yang sengaja memiliki uang palsu, tagihan, atau koin adalah bersalah atas felony."
+    ]
+  },
+  {
+    "kode": "507",
+    "nama": "Petty Theft (Pencurian Kecil - Nilai ≤ $950)",
+    "kategori": "TITLE IV OF CRIMES AGAINST PROPERTY",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "8 menit penjara",
+    "denda": "$50",
+    "detail": [
+      "Seseorang yang mencuri atau mengambil barang pribadi milik orang lain, atau barang milik sebuah perusahaan, dengan nilai tidak melebihi $950 adalah bersalah atas misdemeanor."
+    ]
+  },
+  {
+    "kode": "508(a)",
+    "nama": "Grand Theft (Pencurian Besar - Nilai > $950)",
+    "kategori": "TITLE IV OF CRIMES AGAINST PROPERTY",
+    "klasifikasi": "Felony",
+    "hukuman": "15 menit penjara",
+    "denda": "$250",
+    "detail": [
+      "Seseorang yang mencuri atau mengambil barang pribadi milik orang lain, atau barang milik sebuah perusahaan, dengan nilai melebihi $950 adalah bersalah atas felony."
+    ]
+  },
+  {
+    "kode": "508(b)",
+    "nama": "Grand Theft Auto (Mencuri Mobil Tidak Dihuni)",
+    "kategori": "TITLE IV OF CRIMES AGAINST PROPERTY",
+    "klasifikasi": "Felony",
+    "hukuman": "12 menit penjara",
+    "denda": "$187",
+    "detail": [
+      "Seseorang yang mencuri mobil yang tidak dihuni adalah bersalah atas felony."
+    ]
+  },
+  {
+    "kode": "508(c)",
+    "nama": "Grand Theft Firearm (Mencuri Senjata Api)",
+    "kategori": "TITLE IV OF CRIMES AGAINST PROPERTY",
+    "klasifikasi": "Felony",
+    "hukuman": "30 menit penjara",
+    "denda": "$550",
+    "detail": [
+      "Seseorang yang mencuri senjata api adalah bersalah atas felony."
+    ]
+  },
+  {
+    "kode": "509(a)",
+    "nama": "Extortion (Pemerasan - Intimidasi/Kekerasan)",
+    "kategori": "TITLE IV OF CRIMES AGAINST PROPERTY",
+    "klasifikasi": "Felony",
+    "hukuman": "22 menit penjara",
+    "denda": "$356",
+    "detail": [
+      "Seseorang yang menggunakan intimidasi atau kekerasan untuk, dengan persetujuannya, mendapatkan barang atau layanan dari orang lain adalah bersalah atas felony."
+    ]
+  },
+  {
+    "kode": "509(b)",
+    "nama": "Extortion (Pemerasan - Kekuasaan/Otoritas)",
+    "kategori": "TITLE IV OF CRIMES AGAINST PROPERTY",
+    "klasifikasi": "Felony",
+    "hukuman": "32 menit penjara",
+    "denda": "$432",
+    "detail": [
+      "Seseorang yang menggunakan atau mengancam dengan kekuasaannya atau otoritasnya dengan niat jahat untuk memaksa tindakan dari orang lain adalah bersalah atas felony."
+    ]
+  },
+  {
+    "kode": "510",
+    "nama": "Receiving Stolen Property (Menerima Properti Curian)",
+    "kategori": "TITLE IV OF CRIMES AGAINST PROPERTY",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "6 menit penjara",
+    "denda": "$70",
+    "detail": [
+      "Seseorang yang dengan sengaja membeli atau menerima barang yang telah dicuri atau diperoleh dengan cara yang merupakan pencurian atau pemerasan adalah bersalah atas misdemeanor."
+    ]
+  },
+  {
+    "kode": "511(a)",
+    "nama": "Insurance Fraud (Merusak Barang Asuransi)",
+    "kategori": "TITLE IV OF CRIMES AGAINST PROPERTY",
+    "klasifikasi": "Felony",
+    "hukuman": "14 menit penjara",
+    "denda": "$434",
+    "detail": [
+      "Seseorang yang menghancurkan atau membuang barang yang pada saat itu diasuransikan terhadap kehilangan atau kerusakan akibat pencurian, penggelapan, banjir, atau kebakaran dengan niat untuk menipu perusahaan asuransi, baik barang tersebut milik atau dalam kepemilikan orang itu maupun orang lain, adalah bersalah atas felony."
+    ]
+  },
+  {
+    "kode": "511(b)",
+    "nama": "Insurance Fraud (Kecelakaan Palsu)",
+    "kategori": "TITLE IV OF CRIMES AGAINST PROPERTY",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "8 menit penjara",
+    "denda": "$87",
+    "detail": [
+      "Seseorang yang sengaja menyebabkan atau berpartisipasi dalam tabrakan kendaraan atau kecelakaan kendaraan lainnya dengan niat untuk mengajukan klaim palsu atau penipuan adalah bersalah atas misdemeanor."
+    ]
+  },
+  {
+    "kode": "512(a)",
+    "nama": "Trespass (Properti Ditutup/Tidak Beroperasi)",
+    "kategori": "TITLE IV OF CRIMES AGAINST PROPERTY",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "8 menit penjara",
+    "denda": "$80",
+    "detail": [
+      "Seseorang yang memasuki properti orang lain saat ditutup atau tidak beroperasi tanpa izin tertulis atau diungkapkan untuk melakukannya adalah bersalah atas misdemeanor."
+    ]
+  },
+  {
+    "kode": "512(b)",
+    "nama": "Trespass (Fasilitas Pemerintah Terlarang)",
+    "kategori": "TITLE IV OF CRIMES AGAINST PROPERTY",
+    "klasifikasi": "Felony",
+    "hukuman": "30 menit penjara",
+    "denda": "$140",
+    "detail": [
+      "Seseorang yang tanpa otorisasi yang tepat, memasuki fasilitas yang dimiliki atau dikelola pemerintah, atau bagian terlarang di gedung pemerintah yang diamankan dengan tujuan menjaga personel yang tidak berwenang keluar karena alasan keamanan atau bahaya keselamatan adalah bersalah atas felony."
+    ]
+  },
+  {
+    "kode": "512(c)",
+    "nama": "Trespass (Tanda Dilarang Masuk)",
+    "kategori": "TITLE IV OF CRIMES AGAINST PROPERTY",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "6 menit penjara",
+    "denda": "$50",
+    "detail": [
+      "Seseorang yang memasuki tanah di mana terdapat tanda yang menunjukkan bahwa masuk dilarang adalah bersalah atas misdemeanor."
+    ]
+  },
+  {
+    "kode": "512(d)",
+    "nama": "Trespass (Menolak Meninggalkan Tempat Usaha)",
+    "kategori": "TITLE IV OF CRIMES AGAINST PROPERTY",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "8 menit penjara",
+    "denda": "$70",
+    "detail": [
+      "Seseorang yang menolak meninggalkan tempat usaha saat diminta oleh pemilik atau orang yang berwenang adalah bersalah atas misdemeanor."
+    ]
+  },
+  {
+    "kode": "512(e)",
+    "nama": "Trespass (Melanggar Peringatan Penegak Hukum/Pemilik)",
+    "kategori": "TITLE IV OF CRIMES AGAINST PROPERTY",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "8 menit penjara",
+    "denda": "$90",
+    "detail": [
+      "Seseorang yang, meskipun telah menerima pemberitahuan dari penegak hukum atau pemilik properti bahwa mereka tidak diizinkan berada di properti tertentu, dengan sengaja melanggar peringatan itu dengan memasuki atau tetap berada di properti tersebut adalah bersalah atas misdemeanor."
+    ]
+  },
+  {
+    "kode": "513",
+    "nama": "Fraud (Penipuan)",
+    "kategori": "TITLE IV OF CRIMES AGAINST PROPERTY",
+    "klasifikasi": "Felony",
+    "hukuman": "18 menit penjara",
+    "denda": "$560",
+    "detail": [
+      "Seseorang yang dengan sengaja, melalui pernyataan palsu atau penipuan, menipu orang lain atas uang, tenaga, barang, atau layanan lainnya adalah bersalah atas felony."
+    ]
+  },
+  {
+    "kode": "514",
+    "nama": "Vandalism (Perusakan)",
+    "kategori": "TITLE IV OF CRIMES AGAINST PROPERTY",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "8 menit penjara",
+    "denda": "$80",
+    "detail": [
+      "Seseorang yang merusak, merusakkan, atau menghancurkan properti milik orang lain adalah bersalah atas misdemeanor."
+    ]
+  },
+  {
+    "kode": "601",
+    "nama": "Bribery (Penyuapan)",
+    "kategori": "TITLE VI OF CRIMES AGAINST PUBLIC JUSTICE",
+    "klasifikasi": "Felony",
+    "hukuman": "25 menit penjara",
+    "denda": "$240",
+    "detail": [
+      "Seseorang yang menawarkan atau memberikan hadiah uang, gratifikasi, barang berharga, layanan, atau imbalan lainnya kepada pejabat publik, pegawai negeri, atau petugas perdamaian dengan tujuan mempengaruhi tugas atau tindakan mereka adalah bersalah atas felony."
+    ]
+  },
+  {
+    "kode": "602(a)",
+    "nama": "Jury Tampering (Mempengaruhi Juri)",
+    "kategori": "TITLE VI OF CRIMES AGAINST PUBLIC JUSTICE",
+    "klasifikasi": "Felony",
+    "hukuman": "8 menit penjara",
+    "denda": "$80",
+    "detail": [
+      "Setiap orang yang berusaha mempengaruhi juri atau orang yang dipanggil atau ditunjuk sebagai juri, menggunakan komunikasi lisan atau tertulis di luar proses hukum, dengan ancaman, intimidasi, bujukan, atau janji apa pun adalah bersalah atas felony."
+    ]
+  },
+  {
+    "kode": "602(b)",
+    "nama": "Jury Tampering (Mengancam Juri Setelah Putusan)",
+    "kategori": "TITLE VI OF CRIMES AGAINST PUBLIC JUSTICE",
+    "klasifikasi": "Felony",
+    "hukuman": "18 menit penjara",
+    "denda": "$280",
+    "detail": [
+      "Setiap orang yang mengancam juri terkait dengan proses pidana di mana putusan telah dijatuhkan dan memiliki niat serta kemampuan yang tampak untuk menjalankan ancaman tersebut, sehingga menyebabkan ketakutan yang wajar terhadap keamanan mereka, adalah bersalah atas felony."
+    ]
+  },
+  {
+    "kode": "603(a)",
+    "nama": "Intimidating a Witness or Victim (Mencegah Kesaksian)",
+    "kategori": "TITLE VI OF CRIMES AGAINST PUBLIC JUSTICE",
+    "klasifikasi": "Felony",
+    "hukuman": "20 menit penjara",
+    "denda": "$250",
+    "detail": [
+      "Seseorang yang dengan sengaja dan jahat mencegah atau mendorong saksi atau korban untuk tidak hadir atau tidak memberikan kesaksian di persidangan, proses hukum, atau penyelidikan yang diizinkan oleh hukum, dengan menggunakan suap, ketakutan, atau taktik lainnya adalah bersalah atas felony."
+    ]
+  },
+  {
+    "kode": "603(b)",
+    "nama": "Intimidating a Witness or Victim (Mencegah Proses Hukum)",
+    "kategori": "TITLE VI OF CRIMES AGAINST PUBLIC JUSTICE",
+    "klasifikasi": "Felony",
+    "hukuman": "16 menit penjara",
+    "denda": "$167",
+    "detail": [
+      "Seseorang yang mencegah distribusi, penyelesaian, jawaban, atau proses hukum yang semestinya terhadap surat pernyataan atau pernyataan hukum lainnya adalah bersalah atas felony."
+    ]
+  },
+  {
+    "kode": "604",
+    "nama": "Escape (Melarikan Diri dari Penahanan)",
+    "kategori": "TITLE VI OF CRIMES AGAINST PUBLIC JUSTICE",
+    "klasifikasi": "Felony",
+    "hukuman": "40 menit penjara",
+    "denda": "$650",
+    "detail": [
+      "Seseorang yang telah diproses masuk ke penjara kabupaten atau penjara karena dugaan atau hukuman atas suatu kejahatan, yang kemudian melarikan diri dari penjara kabupaten, penjara, layanan masyarakat, rumah sakit, atau penahanan oleh petugas Pemasyarakatan atau Pembebasan Bersyarat adalah bersalah atas felony."
+    ]
+  },
+  {
+    "kode": "605(a)",
+    "nama": "Aiding in the Escape from State Custody (Membantu Langsung)",
+    "kategori": "TITLE VI OF CRIMES AGAINST PUBLIC JUSTICE",
+    "klasifikasi": "Felony",
+    "hukuman": "30 menit penjara",
+    "denda": "$550",
+    "detail": [
+      "Seseorang yang secara langsung membantu atau menolong orang yang secara hukum ditahan untuk melarikan diri dari hukum, termasuk dari penahanan yang sah oleh petugas perdamaian, transportasi tahanan, pembebasan bersyarat, layanan masyarakat, atau penahanan di penjara kabupaten atau penjara negara bagian adalah bersalah atas felony."
+    ]
+  },
+  {
+    "kode": "605(b)",
+    "nama": "Aiding in the Escape from State Custody (Memberi Informasi)",
+    "kategori": "TITLE VI OF CRIMES AGAINST PUBLIC JUSTICE",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "8 menit penjara",
+    "denda": "$40",
+    "detail": [
+      "Seseorang yang memberikan informasi atau wawasan yang kemudian membantu orang yang secara hukum ditahan untuk melarikan diri dari hukum adalah bersalah atas misdemeanor."
+    ]
+  },
+  {
+    "kode": "606(a)",
+    "nama": "Perjury (Sumpah Palsu - Umum)",
+    "kategori": "TITLE VI OF CRIMES AGAINST PUBLIC JUSTICE",
+    "klasifikasi": "Felony",
+    "hukuman": "16 menit penjara",
+    "denda": "$168",
+    "detail": [
+      "Seseorang yang dengan sengaja memberikan informasi palsu sebagai bagian dari surat pernyataan, kesaksian, penyataan yang diperintahkan pengadilan, atau dokumen dengan pernyataan yang menunjukkan keasliannya di bawah ancaman pidana perjury adalah bersalah atas felony."
+    ]
+  },
+  {
+    "kode": "606(b)",
+    "nama": "Perjury (Sumpah Palsu - Petugas Perdamaian)",
+    "kategori": "TITLE VI OF CRIMES AGAINST PUBLIC JUSTICE",
+    "klasifikasi": "Felony",
+    "hukuman": "28 menit penjara",
+    "denda": "$272",
+    "detail": [
+      "Seorang petugas perdamaian yang dengan sengaja dan niat membuat atau menyebabkan dibuatnya pernyataan material dalam laporan resmi atau kepada petugas perdamaian lainnya, dan pernyataan tersebut termasuk dalam laporan resmi, mengetahui bahwa pernyataan tersebut adalah palsu, adalah bersalah atas felony."
+    ]
+  },
+  {
+    "kode": "607(a)",
+    "nama": "Filing a False Report (Laporan Palsu Kejahatan)",
+    "kategori": "TITLE VI OF CRIMES AGAINST PUBLIC JUSTICE",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "8 menit penjara",
+    "denda": "$80",
+    "detail": [
+      "Seseorang yang melaporkan kepada petugas perdamaian atau jaksa distrik bahwa felony atau misdemeanor telah dilakukan, mengetahui bahwa laporan tersebut palsu, adalah bersalah atas misdemeanor."
+    ]
+  },
+  {
+    "kode": "607(b)",
+    "nama": "Filing a False Report (Laporan Palsu Senjata Hilang/Dicuri)",
+    "kategori": "TITLE VI OF CRIMES AGAINST PUBLIC JUSTICE",
+    "klasifikasi": "Felony",
+    "hukuman": "24 menit penjara",
+    "denda": "$298",
+    "detail": [
+      "Seseorang yang melaporkan senjata api sebagai hilang atau dicuri, mengetahui bahwa laporan tersebut palsu, adalah bersalah atas felony."
+    ]
+  },
+  {
+    "kode": "608",
+    "nama": "Filing a False Complaint (Pengajuan Keluhan Palsu)",
+    "kategori": "TITLE VI OF CRIMES AGAINST PUBLIC JUSTICE",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "8 menit penjara",
+    "denda": "$50",
+    "detail": [
+      "Seseorang yang dengan sengaja mengajukan keluhan palsu, pernyataan, dokumen, atau representasi kepada organisasi mana pun mengenai tingkah laku, kinerja kerja, atau perilaku seorang pejabat publik atau pegawai dengan tujuan untuk memulai tindakan administratif palsu terhadap pejabat tersebut adalah bersalah atas misdemeanor."
+    ]
+  },
+  {
+    "kode": "609(a)",
+    "nama": "Corruption of Public Duty (Mengungkap Informasi untuk Keuntungan)",
+    "kategori": "TITLE VI OF CRIMES AGAINST PUBLIC JUSTICE",
+    "klasifikasi": "Felony",
+    "hukuman": "30 menit penjara",
+    "denda": "$560",
+    "detail": [
+      "Setiap petugas keamanan, pegawai dari agen penegak hukum, atau jaksa negara yang mengungkapkan atau meminta informasi yang diperoleh selama penyelidikan kriminal untuk keuntungan finansial adalah bersalah atas felony."
+    ]
+  },
+  {
+    "kode": "609(b)",
+    "nama": "Corruption of Public Duty (Menolak Penangkapan)",
+    "kategori": "TITLE VI OF CRIMES AGAINST PUBLIC JUSTICE",
+    "klasifikasi": "Felony",
+    "hukuman": "24 menit penjara",
+    "denda": "$450",
+    "detail": [
+      "Setiap petugas keamanan yang memiliki wewenang untuk menerima atau menangkap seseorang yang didakwa dengan pelanggaran kriminal dan dengan sengaja menolak untuk menerima atau menangkap orang tersebut adalah bersalah atas felony."
+    ]
+  },
+  {
+    "kode": "609(c)",
+    "nama": "Corruption of Public Duty (Kelalaian Kriminal Pegawai Negara)",
+    "kategori": "TITLE VI OF CRIMES AGAINST PUBLIC JUSTICE",
+    "klasifikasi": "Felony",
+    "hukuman": "24 menit penjara",
+    "denda": "$460",
+    "detail": [
+      "Setiap pegawai negara yang menunjukkan kelalaian kriminal dalam tugas mereka adalah bersalah atas felony."
+    ]
+  },
+  {
+    "kode": "610(a)",
+    "nama": "Obstruction of Justice (Menghalangi Tugas Pegawai Negara)",
+    "kategori": "TITLE VI OF CRIMES AGAINST PUBLIC JUSTICE",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "6 menit penjara",
+    "denda": "$60",
+    "detail": [
+      "Setiap orang yang menunjukkan usaha yang jelas dan termotivasi untuk mencegah atau menunda seorang pegawai negara dalam melaksanakan tugasnya adalah bersalah atas misdemeanor."
+    ]
+  },
+  {
+    "kode": "610(b)",
+    "nama": "Obstruction of Justice (Gagal Mematuhi Perintah)",
+    "kategori": "TITLE VI OF CRIMES AGAINST PUBLIC JUSTICE",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "4 menit penjara",
+    "denda": "$40",
+    "detail": [
+      "Setiap orang yang gagal mematuhi perintah sah dari petugas keamanan adalah bersalah atas misdemeanor."
+    ]
+  },
+  {
+    "kode": "611(a)",
+    "nama": "Resisting a Peace Officer (Melawan/Menghindari Penangkapan)",
+    "kategori": "TITLE VI OF CRIMES AGAINST PUBLIC JUSTICE",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "8 menit penjara",
+    "denda": "$80",
+    "detail": [
+      "Setiap orang yang menghindari penangkapan dari petugas keamanan dengan cara non-kendaraan atau melawan penangkapan dengan cara fisik adalah bersalah atas misdemeanor."
+    ]
+  },
+  {
+    "kode": "611(b)",
+    "nama": "Resisting a Peace Officer (Melarikan Diri Setelah Ditahan Fisik)",
+    "kategori": "TITLE VI OF CRIMES AGAINST PUBLIC JUSTICE",
+    "klasifikasi": "Felony",
+    "hukuman": "10 menit penjara",
+    "denda": "$100",
+    "detail": [
+      "Setiap orang yang, menunggu tuduhan diajukan terhadapnya, secara fisik ditahan dengan menggunakan alat pembatas atau kekuatan fisik oleh petugas keamanan dan melarikan diri dari penjagaan petugas tersebut adalah bersalah atas felony."
+    ]
+  },
+  {
+    "kode": "612",
+    "nama": "Failure To Pay A Fine (Gagal Bayar Denda)",
+    "kategori": "TITLE VI OF CRIMES AGAINST PUBLIC JUSTICE",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "8 menit penjara",
+    "denda": "$80",
+    "detail": [
+      "Setiap orang yang gagal membayar denda atau biaya yang diperintahkan oleh pengadilan dalam periode waktu yang telah ditentukan dan dinyatakan dengan jelas adalah bersalah atas misdemeanor."
+    ]
+  },
+  {
+    "kode": "613",
+    "nama": "Failure to Identify to a Peace Officer (Gagal Identifikasi)",
+    "kategori": "TITLE VI OF CRIMES AGAINST PUBLIC JUSTICE",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "4 menit penjara",
+    "denda": "$40",
+    "detail": [
+      "Seseorang yang, saat ditahan atau ditangkap oleh seorang petugas keamanan, tidak memberikan nama mereka seperti yang tertera pada kartu identitas atau informasi lain yang dapat dikenali untuk tujuan MDC, bersalah atas misdemeanor."
+    ]
+  },
+  {
+    "kode": "614(a)",
+    "nama": "Impersonation of a State Employee (Penyamaan Pegawai Negara/Daerah)",
+    "kategori": "TITLE VI OF CRIMES AGAINST PUBLIC JUSTICE",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "8 menit penjara",
+    "denda": "$80",
+    "detail": [
+      "Seseorang yang berpura-pura atau menyiratkan peran sebagai pekerja pemerintah negara atau daerah, seperti petugas keamanan, paramedis, pengumpul pajak, jaksa negara, atau pejabat lainnya, bersalah atas misdemeanor."
+    ]
+  },
+  {
+    "kode": "614(b)",
+    "nama": "Impersonation of a State Employee (Mengenakan Seragam Resmi)",
+    "kategori": "TITLE VI OF CRIMES AGAINST PUBLIC JUSTICE",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "8 menit penjara",
+    "denda": "$80",
+    "detail": [
+      "Seseorang yang mengenakan seragam pegawai negara yang resmi atau realistis dengan lencana atau tag identifikasi yang resmi atau realistis, kecuali dalam set film atau produksi resmi yang disetujui secara hukum, bersalah atas misdemeanor."
+    ]
+  },
+  {
+    "kode": "614(c)",
+    "nama": "Impersonation of a State Employee (Penyamaan Pegawai Federal)",
+    "kategori": "TITLE VI OF CRIMES AGAINST PUBLIC JUSTICE",
+    "klasifikasi": "Felony",
+    "hukuman": "20 menit penjara",
+    "denda": "$520",
+    "detail": [
+      "Seseorang yang berpura-pura atau menyiratkan peran sebagai pegawai federal, seperti penyidik federal, jaksa federal, atau pejabat federal lainnya, bersalah atas felony."
+    ]
+  },
+  {
+    "kode": "615",
+    "nama": "Making a False Report of an Emergency (Laporan Darurat Palsu)",
+    "kategori": "TITLE VI OF CRIMES AGAINST PUBLIC JUSTICE",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "8 menit penjara",
+    "denda": "$80",
+    "detail": [
+      "Seseorang yang melaporkan, atau menyebabkan laporan dibuat, kepada departemen negara dan/atau nomor darurat, bahwa ada sebuah 'keadaan darurat,' dengan mengetahui bahwa laporan tersebut palsu, bersalah atas misdemeanor."
+    ]
+  },
+  {
+    "kode": "616",
+    "nama": "Evidence Tampering (Merusak Bukti)",
+    "kategori": "TITLE VI OF CRIMES AGAINST PUBLIC JUSTICE",
+    "klasifikasi": "Felony",
+    "hukuman": "35 menit penjara",
+    "denda": "$535",
+    "detail": [
+      "Seseorang yang menghancurkan atau berusaha menghancurkan, menyembunyikan, atau mengubah bukti yang dapat digunakan dalam penyelidikan kriminal atau proses pengadilan di kemudian hari, bersalah atas felony."
+    ]
+  },
+  {
+    "kode": "617",
+    "nama": "Introduction of Contraband (Memasukkan Barang Terlarang)",
+    "kategori": "TITLE VI OF CRIMES AGAINST PUBLIC JUSTICE",
+    "klasifikasi": "Felony",
+    "hukuman": "36 menit penjara",
+    "denda": "$850",
+    "detail": [
+      "Seseorang yang memberikan barang terlarang kepada seorang narapidana di suatu fasilitas pemasyarakatan, atau berusaha memasuki fasilitas dengan niat untuk mengangkut barang terlarang secara ilegal di dalamnya, bersalah atas felony."
+    ]
+  },
+  {
+    "kode": "618",
+    "nama": "Violation of Parole (Pelanggaran Pembebasan Bersyarat)",
+    "kategori": "TITLE VI OF CRIMES AGAINST PUBLIC JUSTICE",
+    "klasifikasi": "Felony",
+    "hukuman": "48 menit penjara",
+    "denda": "$480",
+    "detail": [
+      "Seseorang yang dengan sengaja melanggar ketentuan perjanjian parol bersalah atas felony."
+    ]
+  },
+  {
+    "kode": "619(a)",
+    "nama": "Voter Fraud / Voter Pandering (Menghalangi/Memengaruhi Hasil Pemungutan Suara)",
+    "kategori": "TITLE VI OF CRIMES AGAINST PUBLIC JUSTICE",
+    "klasifikasi": "Felony",
+    "hukuman": "52 menit penjara",
+    "denda": "$524",
+    "detail": [
+      "Seseorang yang menghalangi atau memengaruhi hasil pemungutan suara secara ilegal, tidak sah, atau tidak etis bersalah atas felony."
+    ]
+  },
+  {
+    "kode": "619(b)",
+    "nama": "Voter Fraud / Voter Pandering (Membeli Suara)",
+    "kategori": "TITLE VI OF CRIMES AGAINST PUBLIC JUSTICE",
+    "klasifikasi": "Felony",
+    "hukuman": "60 menit penjara",
+    "denda": "$650",
+    "detail": [
+      "Seseorang yang melakukan tindak pidana membeli suara ketika ia menjanjikan, menawarkan, atau memberikan kepada seseorang, secara langsung atau tidak langsung, manfaat yang tidak semestinya, untuk orang tersebut atau pihak ketiga atau entitas agar orang tersebut memberikan suara, tidak memberikan suara, memberikan suara yang tidak sah, atau memberikan suara mendukung atau menolak seseorang atau proposal tertentu, bersalah atas felony."
+    ]
+  },
+  {
+    "kode": "620",
+    "nama": "Corruption of Public Office (Korupsi Jabatan Publik)",
+    "kategori": "TITLE VI OF CRIMES AGAINST PUBLIC JUSTICE",
+    "klasifikasi": "Felony",
+    "hukuman": "64 menit penjara",
+    "denda": "$645",
+    "detail": [
+      "Seseorang yang bertindak di luar kepentingan kebaikan publik, keadilan publik, atau tugas mereka yang menjabat di kantor publik bersalah atas felony."
+    ]
+  },
+  {
+    "kode": "621",
+    "nama": "Contempt of Senate (Penghinaan terhadap Senat)",
+    "kategori": "TITLE VI OF CRIMES AGAINST PUBLIC JUSTICE",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "≤ 8 menit penjara",
+    "denda": "$80",
+    "detail": [
+      "Seseorang yang dengan sengaja tidak mematuhi perintah lisan atau tertulis dari Senat, tidak menghormati tata krama Senat, atau melanggar proses senat lainnya bersalah atas misdemeanor."
+    ]
+  },
+  {
+    "kode": "622",
+    "nama": "Contempt of Court (Penghinaan terhadap Pengadilan)",
+    "kategori": "TITLE VI OF CRIMES AGAINST PUBLIC JUSTICE",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "≤ 8 menit penjara",
+    "denda": "$80",
+    "detail": [
+      "Seseorang yang dengan sengaja tidak mematuhi perintah lisan atau tertulis dari otoritas pengadilan, tidak menghormati tata krama pengadilan, atau melanggar proses hukum lainnya bersalah atas misdemeanor."
+    ]
+  },
+  {
+    "kode": "623",
+    "nama": "Subpoena Violation (Pelanggaran Subpoena)",
+    "kategori": "TITLE VI OF CRIMES AGAINST PUBLIC JUSTICE",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "≤ 8 menit penjara",
+    "denda": "$80",
+    "detail": [
+      "Seseorang yang mengabaikan atau melanggar perintah subpoena yang dikeluarkan oleh Pengadilan bersalah atas misdemeanor."
+    ]
+  },
+  {
+    "kode": "701",
+    "nama": "Reckless Driving (Mengemudi Sembarangan)",
+    "kategori": "TITLE VII OF CRIMES WITH A VEHICLE",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "20 menit penjara",
+    "denda": "$350",
+    "detail": [
+      "Seseorang yang mengemudikan kendaraan di jalan umum atau jalan raya dengan sengaja atau sembarangan mengabaikan keamanan orang atau harta benda bersalah atas misdemeanor."
+    ]
+  },
+  {
+    "kode": "702",
+    "nama": "Felony Reckless Driving (Mengemudi Sembarangan Felony)",
+    "kategori": "TITLE VII OF CRIMES WITH A VEHICLE",
+    "klasifikasi": "Felony",
+    "hukuman": "28 menit penjara + penyitaan lisensi 24 jam",
+    "denda": "$540",
+    "detail": [
+      "Mengemudikan kendaraan di jalan umum atau jalan raya dengan sengaja atau sembarangan mengabaikan keamanan orang atau harta benda, seperti hampir menabrak pejalan kaki, memasuki jalur pejalan kaki, atau hampir menyebabkan bahaya serius bagi pengemudi lain atau;",
+      "Seseorang yang menggunakan kendaraannya dengan cara yang berbahaya bagi penumpang, pejalan kaki, atau warga sekitar atau;",
+      "Di jalur pejalan kaki yang ramai atau plaza, atau di jalur lalu lintas yang berlawanan dengan atau tanpa kendaraan yang hadir, atau di jalur lalu lintas yang berlawanan di jalan bebas hambatan atau jalan raya atau;",
+      "Menyebabkan cedera fisik, bersalah atas felony."
+    ]
+  },
+  {
+    "kode": "703(a)",
+    "nama": "Driving Under the Influence (DUI - Alkohol ≥ 0,08%)",
+    "kategori": "TITLE VII OF CRIMES WITH A VEHICLE",
+    "klasifikasi": "Felony",
+    "hukuman": "24 menit penjara + penyitaan lisensi 24 jam",
+    "denda": "$246",
+    "detail": [
+      "Seseorang yang mengemudikan kendaraan di bawah pengaruh minuman beralkohol dengan kadar alkohol 0,08 persen atau lebih dalam darahnya bersalah atas felony."
+    ]
+  },
+  {
+    "kode": "703(b)",
+    "nama": "Driving Under the Influence (DUI - Pegawai Negara)",
+    "kategori": "TITLE VII OF CRIMES WITH A VEHICLE",
+    "klasifikasi": "Felony",
+    "hukuman": "30 menit penjara + penyitaan lisensi 24 jam",
+    "denda": "$350",
+    "detail": [
+      "Setiap pegawai negara yang mengemudikan kendaraan di bawah pengaruh narkoba atau alkohol, saat menjalankan tugas sebagai pegawai negara, ATAU mengoperasikan kendaraan milik negara saat di bawah pengaruh narkoba atau alkohol, bersalah atas felony."
+    ]
+  },
+  {
+    "kode": "703(c)",
+    "nama": "Driving Under the Influence (DUI - Kendaraan Komersial)",
+    "kategori": "TITLE VII OF CRIMES WITH A VEHICLE",
+    "klasifikasi": "Felony",
+    "hukuman": "24 menit penjara + penyitaan lisensi 24 jam",
+    "denda": "$542",
+    "detail": [
+      "Seseorang yang mengemudikan kendaraan komersial saat di bawah pengaruh narkoba atau memiliki kadar alkohol 0,04 persen atau lebih dalam darahnya bersalah atas felony."
+    ]
+  },
+  {
+    "kode": "703(d)",
+    "nama": "Driving Under the Influence (Terganggu oleh Alkohol/Narkoba)",
+    "kategori": "TITLE VII OF CRIMES WITH A VEHICLE",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "16 menit penjara + penyitaan lisensi 24 jam",
+    "denda": "$165",
+    "detail": [
+      "Seseorang yang mengemudikan kendaraan saat terganggu oleh alkohol, narkoba, atau kombinasi keduanya bersalah atas misdemeanor."
+    ]
+  },
+  {
+    "kode": "704",
+    "nama": "Evading a Peace Officer (Menghindar dari Polisi)",
+    "kategori": "TITLE VII OF CRIMES WITH A VEHICLE",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "16 menit penjara + penyitaan lisensi 48 jam",
+    "denda": "$156",
+    "detail": [
+      "Seseorang yang, saat mengoperasikan kendaraan bermotor, dengan sengaja melarikan diri atau berusaha menghindar dari kendaraan petugas keamanan yang mengejarnya bersalah atas misdemeanor."
+    ]
+  },
+  {
+    "kode": "705",
+    "nama": "Reckless Evading of a Peace Officer (Menghindar Sembarangan)",
+    "kategori": "TITLE VII OF CRIMES WITH A VEHICLE",
+    "klasifikasi": "Felony",
+    "hukuman": "36 menit penjara + penyitaan lisensi 60 jam",
+    "denda": "$365",
+    "detail": [
+      "Seseorang yang, saat mengoperasikan kendaraan bermotor, melarikan diri atau berusaha menghindar dari petugas keamanan sambil mengemudikan kendaraan secara ceroboh atau berbahaya bersalah atas felony."
+    ]
+  },
+  {
+    "kode": "706(a)",
+    "nama": "Hit and Run (Cedera/Kematian)",
+    "kategori": "TITLE VII OF CRIMES WITH A VEHICLE",
+    "klasifikasi": "Felony",
+    "hukuman": "35 menit penjara + penyitaan lisensi 24 jam",
+    "denda": "$464",
+    "detail": [
+      "Seseorang yang mengoperasikan kendaraan bermotor dan terlibat dalam kecelakaan yang mengakibatkan cedera pada orang lain, selain dirinya sendiri, atau menyebabkan kematian seseorang, dan tidak segera menghentikan kendaraan di lokasi kecelakaan tersebut bersalah atas felony."
+    ]
+  },
+  {
+    "kode": "706(b)",
+    "nama": "Hit and Run (Kerusakan Properti)",
+    "kategori": "TITLE VII OF CRIMES WITH A VEHICLE",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "10 menit penjara + penyitaan lisensi 24 jam",
+    "denda": "$154",
+    "detail": [
+      "Seseorang yang mengoperasikan kendaraan bermotor dan terlibat dalam kecelakaan yang hanya mengakibatkan kerusakan pada harta benda atau kendaraan lain, dan tidak segera menghentikan kendaraan di lokasi kecelakaan tersebut bersalah atas misdemeanor."
+    ]
+  },
+  {
+    "kode": "801",
+    "nama": "Brandishing a Firearm (Mengacungkan Senjata Api)",
+    "kategori": "TITLE VIII OF WEAPON AND FIREARM VIOLATION",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "20 menit penjara",
+    "denda": "$1,000",
+    "detail": [
+      "Tindakan dengan sengaja mengeluarkan, menampilkan, atau menunjukan senjata api atau mematikan dengan tujuan untuk mengancam nyawa 1 orang atau lebih, merupakan misdemeanor."
+    ]
+  },
+  {
+    "kode": "802",
+    "nama": "Discharging a Firearm in Public (Menembak di Tempat Umum)",
+    "kategori": "TITLE VIII OF WEAPON AND FIREARM VIOLATION",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "20 menit penjara",
+    "denda": "$500",
+    "detail": [
+      "Setiap tindakan dari seseorang yang dengan sengaja menembakkan senjata api di tempat umum, atau gedung pemerintahan tanpa alasan yang jelas, dan bisa membahayakan nyawa orang lain atau tidak, merupakan misdemeanor.",
+      "Pengecualian: Tidak berlaku jika penembakan dilakukan untuk bela diri atau oleh petugas berwenang. Jika tembakan menyebabkan cedera, naikkan ke felony (40 menit penjara, $1.500)."
+    ]
+  },
+  {
+    "kode": "803",
+    "nama": "Unlicensed Possession of a Deadly Weapon (Senjata Mematikan Tanpa Lisensi)",
+    "kategori": "TITLE VIII OF WEAPON AND FIREARM VIOLATION",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "20 menit penjara",
+    "denda": "$760",
+    "detail": [
+      "Tindakan dimana seseorang dengan sengaja membawa senjata mematikan di tempat umum, atau tempat pribadi tanpa persetujuan dari pemilik properti, atau tanpa lisensi yang valid dari pemilik properti untuk membawa senjata tersebut merupakan misdemanor."
+    ]
+  },
+  {
+    "kode": "804(a)",
+    "nama": "Possession of an Unlicensed Firearm (Senjata Api Tidak Terdaftar)",
+    "kategori": "TITLE VIII OF WEAPON AND FIREARM VIOLATION",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "25 menit penjara",
+    "denda": "$850",
+    "detail": [
+      "Tindakan dimana seseorang memiliki senjata api yang tidak terdaftar di negara bagian San Andreas, merupahan misdemeanor."
+    ]
+  },
+  {
+    "kode": "804(b)",
+    "nama": "Possession of an Unlicensed Firearm (Senjata Api Hasil Curian)",
+    "kategori": "TITLE VIII OF WEAPON AND FIREARM VIOLATION",
+    "klasifikasi": "Felony",
+    "hukuman": "30 menit penjara",
+    "denda": "$900",
+    "detail": [
+      "Tindakan dimana seseorang memiliki senjata api dari hasil curian di negara bagian San Andreas, merupakan felony."
+    ]
+  },
+  {
+    "kode": "804(c)",
+    "nama": "Possession of an Unlicensed Firearm (Senjata Replika)",
+    "kategori": "TITLE VIII OF WEAPON AND FIREARM VIOLATION",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "20 menit penjara",
+    "denda": "$500",
+    "detail": [
+      "Tindakan dimana seseorang memiliki senjata replika dengan niat untuk mengancam nyawa orang lain, merupakan misdemeanor."
+    ]
+  },
+  {
+    "kode": "805",
+    "nama": "Possession of an Illegal Firearm (Senjata Api Ilegal)",
+    "kategori": "TITLE VIII OF WEAPON AND FIREARM VIOLATION",
+    "klasifikasi": "Felony",
+    "hukuman": "40 menit penjara",
+    "denda": "$600",
+    "detail": [
+      "Tindakan dimana seseorang memiliki senjata api yang di hasilkan, atau di beli secara ilegal, merupakan Felony."
+    ]
+  },
+  {
+    "kode": "806",
+    "nama": "Firearm Theft (Pencurian Senjata Api)",
+    "kategori": "TITLE VIII OF WEAPON AND FIREARM VIOLATION",
+    "klasifikasi": "Felony",
+    "hukuman": "50 menit penjara",
+    "denda": "$930",
+    "detail": [
+      "Tindakan dimana seseorang mencuri, atau mengambil senjata api orang lain dengan cara sadar tau tidak sadar dengan cara mengancam atau tidak merupakan felony."
+    ]
+  },
+  {
+    "kode": "807",
+    "nama": "Illegal Firearm Distribution (Distribusi Senjata Api Ilegal)",
+    "kategori": "TITLE VIII OF WEAPON AND FIREARM VIOLATION",
+    "klasifikasi": "Felony",
+    "hukuman": "30 menit penjara",
+    "denda": "$910",
+    "detail": [
+      "Tindakan dimana seseorang memiliki senjata api ilegal dengan niat untuk di perjual-belikan, merupakan felony."
+    ]
+  },
+  {
+    "kode": "808",
+    "nama": "Illegal Modification of a Firearm (Modifikasi Senjata Ilegal)",
+    "kategori": "TITLE VIII OF WEAPON AND FIREARM VIOLATION",
+    "klasifikasi": "Felony",
+    "hukuman": "90 menit penjara",
+    "denda": "$2,500",
+    "detail": [
+      "Seseorang yang memodifikasi senjata api secara ilegal (seperti suppressor, full-auto conversion, atau extended magazine tanpa izin) bersalah atas felony."
+    ]
+  },
+  {
+    "kode": "809",
+    "nama": "Negligent Storage of a Firearm (Penyimpanan Senjata Lalai)",
+    "kategori": "TITLE VIII OF WEAPON AND FIREARM VIOLATION",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "30 menit penjara",
+    "denda": "$750",
+    "detail": [
+      "Seseorang yang menyimpan senjata api tanpa pengamanan yang memadai (seperti tidak dikunci atau diakses oleh anak di bawah umur) bersalah atas misdemeanor."
+    ]
+  },
+  {
+    "kode": "001",
+    "nama": "License Suspension and Revocation (Penangguhan/Pencabutan SIM)",
+    "kategori": "VEHICLE CODE",
+    "klasifikasi": "Info",
+    "hukuman": "N/A",
+    "denda": "N/A",
+    "detail": [
+      "Seseorang yang mengemudikan kendaraan bermotor dan mendapatkan tiga (3) poin pada lisensi mereka akan mengalami suspensi lisensi selama empat puluh delapan (48) jam.",
+      "Seseorang yang mengemudikan kendaraan bermotor dan mendapatkan lima (5) poin pada lisensi mereka akan mengalami penyitaan kendaraan dan pencabutan lisensi. (Anda tidak dapat mendapatkan lisensi lain selama 48 jam setelah pencabutan).",
+      "Poin pada lisensi pengemudi akan hilang setiap dua (2) minggu atau dihapus setelah pencabutan lisensi."
+    ]
+  },
+  {
+    "kode": "002",
+    "nama": "Officer Discretion (Kebijaksanaan Petugas)",
+    "kategori": "VEHICLE CODE",
+    "klasifikasi": "Info",
+    "hukuman": "N/A",
+    "denda": "N/A",
+    "detail": [
+      "Setiap petugas keamanan yang memiliki alasan yang cukup untuk menghentikan kendaraan atau menahan orang lain sesuai dengan San Andreas Vehicle Code, seperti yang tercantum di VEH, boleh menggunakan kebijaksanaan mereka ketika mengeluarkan pelanggaran atau poin pada lisensi pengemudi kendaraan, kecuali ketika pengemudi kendaraan bertindak dengan cara yang tidak aman."
+    ]
+  },
+  {
+    "kode": "101(a)",
+    "nama": "Vehicle Registration Violation (Tidak Terdaftar)",
+    "kategori": "VEHICLE CODE",
+    "klasifikasi": "Infraction",
+    "hukuman": "N/A + Penyitaan Kendaraan",
+    "denda": "Lihat Tabel Level (Motor/Mobil/Komersial/Sport)",
+    "detail": [
+      "Seseorang yang mengemudikan, memindahkan, atau meninggalkan kendaraan di jalan umum, atau di tempat umum yang belum terdaftar di Negara Bagian San Andreas akan dikenakan infraction dan kendaraan akan di sita oleh petugas. (Lihat tabel denda di bagian penjelasan kendaraan)."
+    ]
+  },
+  {
+    "kode": "101(b)",
+    "nama": "Vehicle Registration Violation (Tidak Ada Plat)",
+    "kategori": "VEHICLE CODE",
+    "klasifikasi": "Infraction",
+    "hukuman": "N/A + Penyitaan Kendaraan",
+    "denda": "Lihat Tabel Level (Motor/Mobil/Komersial/Sport)",
+    "detail": [
+      "Seseorang yang mengemudikan kendaraan bermotor tanpa nomor plat yang valid yang dipajang di jalan umum, atau tempat umum akan dikenakan infraction dan kendaraan akan di sita oleh petugas. (Lihat tabel denda di bagian penjelasan kendaraan)."
+    ]
+  },
+  {
+    "kode": "201(a)",
+    "nama": "Driving without a Valid License (Tanpa SIM Valid)",
+    "kategori": "VEHICLE CODE",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "4 menit penjara + Penahanan Kendaraan",
+    "denda": "N/A",
+    "detail": [
+      "Seseorang yang mengemudikan, memindahkan, atau menggunakan kendaraan bermotor di jalan umum tanpa memiliki SIM yang valid yang diterbitkan oleh negara, atau mengemudi dengan SIM yang telah dicabut, dianggap bersalah melakukan misdemeanor. Kendaraan akan ditahan sesuai kebijakan petugas. (Untuk SIM yang kedaluwarsa, lihat 201c, untuk SIM yang ditangguhkan, lihat 202)"
+    ]
+  },
+  {
+    "kode": "201(b)",
+    "nama": "Driving without a Valid License (SIM Tidak Dibawa)",
+    "kategori": "VEHICLE CODE",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "5 menit penjara",
+    "denda": "$450",
+    "detail": [
+      "Seseorang yang mengemudikan, memindahkan, atau menggunakan kendaraan di jalan umum tanpa memiliki SIM dalam penguasaan fisik mereka akan dikenakan misdemeanor."
+    ]
+  },
+  {
+    "kode": "201(c)",
+    "nama": "Driving without a Valid License (SIM Kedaluwarsa)",
+    "kategori": "VEHICLE CODE",
+    "klasifikasi": "Infraction",
+    "hukuman": "N/A",
+    "denda": "$500",
+    "detail": [
+      "Seseorang yang mengemudikan, memindahkan, atau menggunakan kendaraan di jalan umum dengan SIM yang kedaluwarsa akan dikenakan infraction sebesar $500."
+    ]
+  },
+  {
+    "kode": "202",
+    "nama": "Driving on a Suspended License (SIM Disita/Ditangguhkan)",
+    "kategori": "VEHICLE CODE",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "4 menit penjara + Penahanan Kendaraan",
+    "denda": "$550",
+    "detail": [
+      "Seseorang yang mengemudikan, memindahkan, atau menggunakan kendaraan di jalan umum dengan SIM yang penyitaan, tetapi masih valid, yang diterbitkan oleh negara dianggap bersalah melakukan misdemeanor. Kendaraan akan ditahan sesuai kebijakan petugas."
+    ]
+  },
+  {
+    "kode": "203(a)",
+    "nama": "Learner's Permit Violation (Tanpa Izin Belajar)",
+    "kategori": "VEHICLE CODE",
+    "klasifikasi": "Infraction",
+    "hukuman": "Pencabutan Izin Belajar",
+    "denda": "$200",
+    "detail": [
+      "Seseorang yang berusia antara 16 dan 18 tahun dan belum berhasil menyelesaikan kursus pendidikan mengemudi mobil yang disetujui oleh negara, yang mengemudikan, memindahkan, atau menggunakan kendaraan di jalan umum tanpa memiliki izin belajar yang valid akan dikenakan infraction sebesar $200 dan izin belajarnya akan dicabut."
+    ]
+  },
+  {
+    "kode": "203(b)",
+    "nama": "Learner's Permit Violation (Tanpa Pendamping Dewasa)",
+    "kategori": "VEHICLE CODE",
+    "klasifikasi": "Infraction",
+    "hukuman": "Pencabutan Izin Belajar",
+    "denda": "$300",
+    "detail": [
+      "Seseorang yang berusia antara 16 dan 18 tahun dan telah berhasil menyelesaikan kursus pendidikan mengemudi mobil yang disetujui oleh negara, yang mengemudikan, memindahkan, atau menggunakan kendaraan di jalan umum tanpa didampingi oleh orang dewasa yang berusia 18 tahun atau lebih dan memiliki SIM yang valid akan dikenakan infraction sebesar $300 dan izin belajarnya akan dicabut."
+    ]
+  },
+  {
+    "kode": "301",
+    "nama": "Driving without Insurance (Tanpa Asuransi)",
+    "kategori": "VEHICLE CODE",
+    "klasifikasi": "Infraction",
+    "hukuman": "N/A + Penahanan Kendaraan",
+    "denda": "$200",
+    "detail": [
+      "Seseorang yang mengemudikan, memindahkan, atau menggunakan kendaraan di jalan umum tanpa asuransi kendaraan bermotor yang valid akan dikenakan infraction sebesar $200 dan kendaraannya akan ditahan sesuai kebijakan petugas."
+    ]
+  },
+  {
+    "kode": "401(a)",
+    "nama": "Speeding (> 40 MPH di Kawasan Bisnis/Pemukiman)",
+    "kategori": "VEHICLE CODE",
+    "klasifikasi": "Infraction",
+    "hukuman": "N/A",
+    "denda": "$200 + 1 poin SIM",
+    "detail": [
+      "Seseorang yang mengemudikan kendaraan bermotor di jalan mana pun di daerah bisnis atau kawasan pemukiman dengan kecepatan lebih dari 40 MPH akan dikenakan infraction sebesar $200 dan satu poin pada SIM mereka."
+    ]
+  },
+  {
+    "kode": "401(b)",
+    "nama": "Speeding (> 65 MPH di Luar Kawasan)",
+    "kategori": "VEHICLE CODE",
+    "klasifikasi": "Infraction",
+    "hukuman": "N/A",
+    "denda": "$500 + 1 poin SIM",
+    "detail": [
+      "Seseorang yang mengemudikan kendaraan bermotor di jalan mana pun yang tidak berada di daerah bisnis atau kawasan pemukiman dengan kecepatan lebih dari 65 MPH akan dikenakan infraction sebesar $500 dan satu poin pada SIM mereka."
+    ]
+  },
+  {
+    "kode": "401(c)",
+    "nama": "Speeding (> 90 MPH di Jalan Raya)",
+    "kategori": "VEHICLE CODE",
+    "klasifikasi": "Infraction",
+    "hukuman": "N/A",
+    "denda": "$750 + 2 poin SIM",
+    "detail": [
+      "Seseorang yang mengemudikan kendaraan bermotor di jalan raya mana pun dengan kecepatan lebih dari 90 MPH akan dikenakan infraction sebesar $750 dan dua poin pada SIM mereka."
+    ]
+  },
+  {
+    "kode": "401(d)",
+    "nama": "Speeding (Tidak Wajar/Tidak Aman)",
+    "kategori": "VEHICLE CODE",
+    "klasifikasi": "Infraction",
+    "hukuman": "N/A",
+    "denda": "$200 + 2 poin SIM",
+    "detail": [
+      "Seseorang yang mengemudikan kendaraan bermotor dengan kecepatan yang lebih besar dari yang wajar dengan mempertimbangkan cuaca, visibilitas, dan lalu lintas di jalan umum mana pun akan dikenakan infraction sebesar $200 dan dua poin pada SIM mereka."
+    ]
+  },
+  {
+    "kode": "402",
+    "nama": "Failure to Yield (Gagal Memberi Hak Jalan)",
+    "kategori": "VEHICLE CODE",
+    "klasifikasi": "Infraction",
+    "hukuman": "N/A",
+    "denda": "$350",
+    "detail": [
+      "Seseorang yang mengemudikan kendaraan bermotor yang tidak memberikan atau menyerahkan hak jalan kepada pengemudi lain di atau di persimpangan akan dikenakan infraction sebesar $350.",
+      "Kendaraan pertama yang tiba di persimpangan memiliki hak jalan. Kendaraan yang sudah berada di dalam persimpangan juga memiliki hak jalan."
+    ]
+  },
+  {
+    "kode": "403",
+    "nama": "Failure to Yield to Emergency Vehicles (Gagal Memberi Hak Jalan ke Kendaraan Darurat)",
+    "kategori": "VEHICLE CODE",
+    "klasifikasi": "Infraction",
+    "hukuman": "N/A",
+    "denda": "$400",
+    "detail": [
+      "Seseorang yang mengemudikan kendaraan bermotor yang tidak memberikan hak jalan dan segera mengemudikan kendaraannya ke sisi kanan jalan, di luar persimpangan, kepada kendaraan darurat yang membunyikan sirene dan memiliki lampu merah atau biru yang terlihat akan dikenakan infraction sebesar $400."
+    ]
+  },
+  {
+    "kode": "404",
+    "nama": "Failure to Abide by a Traffic Control Device (Gagal Mematuhi Alat Pengatur Lalu Lintas)",
+    "kategori": "VEHICLE CODE",
+    "klasifikasi": "Infraction",
+    "hukuman": "N/A",
+    "denda": "$200",
+    "detail": [
+      "Seseorang yang mengemudikan kendaraan bermotor yang tidak mematuhi tanda, sinyal, atau perangkat pengatur lalu lintas lainnya, termasuk tanda berhenti, lampu lalu lintas, jalur penyeberangan pejalan kaki yang ditunjukkan dengan garis putih padat di persimpangan, dan arahan petugas keamanan atau pekerja konstruksi akan dikenakan infraction sebesar $200."
+    ]
+  },
+  {
+    "kode": "405",
+    "nama": "Illegal Parking (Parkir Ilegal)",
+    "kategori": "VEHICLE CODE",
+    "klasifikasi": "Infraction",
+    "hukuman": "N/A + Penyitaan Kendaraan",
+    "denda": "$950",
+    "detail": [
+      "Seseorang yang berhenti, memarkir, atau meninggalkan kendaraan, baik dalam keadaan diawasi atau tidak, di salah satu tempat berikut akan dikenakan infraction sebesar $950 dan penyitaan kendaraan:",
+      "- Menghalangi persimpangan, gang, jalur penyeberangan, atau jalan umum yang mencegah aliran lalu lintas.",
+      "- Dengan cara yang menghalangi lebih dari dua pertiga dari trotoar atau jalur pejalan kaki.",
+      "- Menghadapi arah lalu lintas yang berlawanan.",
+      "- Di median mana pun.",
+      "- Di dalam terowongan.",
+      "- Di samping atau menghalangi hydrant pemadam kebakaran.",
+      "- Di dalam jalur pemadam kebakaran, yang ditunjukkan dengan tepi cat merah.",
+      "- Di atas rel kereta api atau dalam jangkauan untuk ditabrak oleh kereta api.",
+      "- Di area parkir ambulans atau area bay rumah sakit atau klinik.",
+      "- Di depan atau menghalangi jalur masuk pribadi atau pintu masuk atau keluar jalan pribadi atau jalur.",
+      "- Kendaraan yang diparkir dengan cara yang tidak diizinkan oleh pemilik properti."
+    ]
+  },
+  {
+    "kode": "406",
+    "nama": "Vehicular Noise Violation (Pelanggaran Kebisingan Kendaraan)",
+    "kategori": "VEHICLE CODE",
+    "klasifikasi": "Infraction",
+    "hukuman": "N/A",
+    "denda": "$500",
+    "detail": [
+      "Seseorang yang kendaraannya mengeluarkan suara yang berlebihan, menciptakan gangguan publik, akan dikenakan infraction sebesar $500.",
+      "Contoh termasuk modifikasi untuk meningkatkan polusi suara dari kendaraan mereka, atau penggunaan klakson atau sirene kendaraan secara berlebihan tanpa tujuan yang dapat dibenarkan."
+    ]
+  },
+  {
+    "kode": "407",
+    "nama": "Illegal Use of Hydraulics (Penggunaan Hidrolik Ilegal)",
+    "kategori": "VEHICLE CODE",
+    "klasifikasi": "Infraction",
+    "hukuman": "N/A",
+    "denda": "$450",
+    "detail": [
+      "Seseorang yang mengemudikan kendaraan bermotor di jalan umum mana pun yang menggunakan peralatan hidrolik saat bergerak akan dikenakan infraction sebesar $450."
+    ]
+  },
+  {
+    "kode": "408",
+    "nama": "Unsafe Usage of a Bicycle (Penggunaan Sepeda Tidak Aman)",
+    "kategori": "VEHICLE CODE",
+    "klasifikasi": "Infraction",
+    "hukuman": "N/A",
+    "denda": "$500",
+    "detail": [
+      "Seseorang yang menggunakan sepeda atau kendaraan bermotor lain dengan cara yang menghalangi lalu lintas, memicu kekacauan, menciptakan bahaya, atau menunjukkan potensi untuk menimbulkan bahaya akan dikenakan infraction sebesar $500."
+    ]
+  },
+  {
+    "kode": "409",
+    "nama": "Jaywalking (Menyeberang Tidak Pada Tempatnya)",
+    "kategori": "VEHICLE CODE",
+    "klasifikasi": "Infraction",
+    "hukuman": "N/A",
+    "denda": "$250",
+    "detail": [
+      "Any person who walks between adjacent intersections controlled by traffic control signal devices or by peace officers at any place in the roadway except in a crosswalk shall be issued an infraction of $250."
+    ]
+  },
+  {
+    "kode": "410",
+    "nama": "Speed Contests (Balapan Kecepatan)",
+    "kategori": "VEHICLE CODE",
+    "klasifikasi": "Infraction",
+    "hukuman": "N/A",
+    "denda": "$500",
+    "detail": [
+      "Seseorang yang terlibat dalam perlombaan kecepatan kendaraan bermotor di jalan umum mana pun akan dikenakan infraction sebesar $500. Dalam bagian ini, perlombaan kecepatan kendaraan bermotor mencakup perlombaan kendaraan bermotor melawan kendaraan lain, jam, atau perangkat pengukur waktu lainnya."
+    ]
+  },
+  {
+    "kode": "501",
+    "nama": "Tinted Windows (Kaca Film Gelap)",
+    "kategori": "VEHICLE CODE",
+    "klasifikasi": "Infraction",
+    "hukuman": "N/A",
+    "denda": "$195",
+    "detail": [
+      "Seseorang yang mengemudikan kendaraan bermotor dengan bahan yang menghalangi yang diletakkan, ditampilkan, dipasang, ditempelkan, atau diterapkan pada kaca depan atau jendela samping atau belakang akan dikenakan infraction sebesar $195."
+    ]
+  },
+  {
+    "kode": "502",
+    "nama": "Driving Without use of Headlights (Mengemudi Tanpa Lampu Depan)",
+    "kategori": "VEHICLE CODE",
+    "klasifikasi": "Infraction",
+    "hukuman": "N/A",
+    "denda": "$230",
+    "detail": [
+      "Seseorang yang mengemudikan kendaraan bermotor saat gelap, yang didefinisikan sebagai saat lampu jalan menyala (antara senja dan fajar) atau dalam kondisi cuaca buruk dengan visibilitas rendah (misalnya hujan, kabut, salju), tanpa menggunakan lampu depan akan dikenakan infraction sebesar $230."
+    ]
+  },
+  {
+    "kode": "503",
+    "nama": "Operating an Unsafe Vehicle (Mengoperasikan Kendaraan Tidak Aman)",
+    "kategori": "VEHICLE CODE",
+    "klasifikasi": "Infraction",
+    "hukuman": "N/A",
+    "denda": "$640",
+    "detail": [
+      "Seseorang yang mengemudikan kendaraan bermotor dengan salah satu dari berikut ini di jalan umum mana pun akan dikenakan infraction sebesar $640:",
+      "(a) Ban kempes atau hilang.",
+      "(b) Salah satu atau kedua lampu belakang rusak atau mati.",
+      "(c) Hilangnya pintu, kap mesin, atau penutup bagasi.",
+      "(d) Mengemudikan kendaraan dengan pintu, kap mesin, atau bagasi dalam posisi terbuka."
+    ]
+  },
+  {
+    "kode": "504",
+    "nama": "Unauthorized Use of Red/Blue Lights (Penggunaan Lampu Darurat Ilegal)",
+    "kategori": "VEHICLE CODE",
+    "klasifikasi": "Misdemeanor",
+    "hukuman": "10 menit penjara + Penyitaan Kendaraan",
+    "denda": "$350",
+    "detail": [
+      "Seseorang yang mengemudikan atau memiliki kendaraan dengan lampu darurat (merah/biru) tanpa izin resmi akan dikenakan misdemeanor, dan penyitaan kendaraan sampai lampu darurat yang berada di kendaraan di hilangkan."
+    ]
+  },
+  {
+    "kode": "601",
+    "nama": "Failure to Wear a Helmet (Gagal Mengenakan Helm)",
+    "kategori": "VEHICLE CODE",
+    "klasifikasi": "Infraction",
+    "hukuman": "N/A",
+    "denda": "$500",
+    "detail": [
+      "Seorang pengemudi dan penumpang yang mengoperasikan atau mengendarai sepeda motor atau sepeda motor bertenaga tanpa menggunakan helm keselamatan akan dikenakan infraction sebesar $500."
+    ]
+  },
+  {
+    "kode": "602",
+    "nama": "Unlawful Riding and Towing (Menarik/Mengangkut Kendaraan Secara Tidak Sah)",
+    "kategori": "VEHICLE CODE",
+    "klasifikasi": "Infraction",
+    "hukuman": "N/A",
+    "denda": "$400",
+    "detail": [
+      "Seseorang yang mengoperasikan kendaraan yang mampu menarik atau mengangkut kendaraan yang tidak mengoperasikan kendaraannya dengan cara yang aman, seperti tetapi tidak terbatas pada kecepatan dengan muatan, tidak memberikan hak jalan di tempat yang diperlukan, membiarkan penumpang naik di trailer atau di kendaraan yang ditarik atau diangkut, atau jika kendaraan atau cara pengoperasiannya tidak aman di jalan, akan dikenakan infraction sebesar $400."
+    ]
+  },
+  {
+    "kode": "603",
+    "nama": "Reckless Operation of Machinery (Mengoperasikan Mesin Berat di Jalan Umum)",
+    "kategori": "VEHICLE CODE",
+    "klasifikasi": "Infraction",
+    "hukuman": "N/A",
+    "denda": "$250",
+    "detail": [
+      "Seseorang yang mengoperasikan mesin apa pun seperti Bulldozer, Dump, Handler, Dune, Zhaba, Rallytruck, Airtug, Caddy dan semua variannya, Docktug, Forklift, Mower, Ripley di jalan umum akan dikenakan infraction sebesar $250. Pengecualian: Ketentuan ini tidak berlaku untuk individu yang mengoperasikan kendaraan tersebut dalam keadaan darurat oleh penegak hukum atau personel respons kebakaran selama situasi mendesak."
+    ]
+  },
+  {
+    "kode": "604",
+    "nama": "Reckless operation off an off-road vehicle (Mengoperasikan Kendaraan Off-Road di Jalan Umum)",
+    "kategori": "VEHICLE CODE",
+    "klasifikasi": "Infraction",
+    "hukuman": "N/A + Penahanan Kendaraan",
+    "denda": "$4,100",
+    "detail": [
+      "Seseorang yang mengoperasikan kendaraan off-road di jalan umum mana pun akan dikenakan infraction sebesar $4,100 dan kendaraannya dapat ditahan sesuai kebijakan petugas. Pengecualian: Ketentuan ini tidak berlaku untuk individu yang mengoperasikan kendaraan tersebut dalam keadaan darurat oleh penegak hukum atau personel respons kebakaran selama situasi mendesak."
+    ]
+  },
+  {
+    "kode": "605(a)",
+    "nama": "Unlawful Riding in a Vehicle (Penumpang di Tempat Tidak Ditentukan - Pengemudi)",
+    "kategori": "VEHICLE CODE",
+    "klasifikasi": "Infraction",
+    "hukuman": "N/A",
+    "denda": "$250",
+    "detail": [
+      "Seseorang yang mengemudikan kendaraan bermotor yang dengan sadar mengizinkan seseorang untuk naik di kendaraan atau bagian kendaraan yang tidak ditentukan atau dimaksudkan untuk penggunaan penumpang akan dikenakan infraction sebesar $250."
+    ]
+  },
+  {
+    "kode": "605(b)",
+    "nama": "Unlawful Riding in a Vehicle (Penumpang di Tempat Tidak Ditentukan - Penumpang)",
+    "kategori": "VEHICLE CODE",
+    "klasifikasi": "Infraction",
+    "hukuman": "N/A",
+    "denda": "$250",
+    "detail": [
+      "Seseorang yang naik di kendaraan atau pada bagian kendaraan yang tidak ditentukan atau dimaksudkan untuk penggunaan penumpang akan dikenakan infraction sebesar $250."
+    ]
+  },
+  {
+    "kode": "605(c)",
+    "nama": "Unlawful Riding in a Vehicle (Penumpang di Bagasi - Pengemudi)",
+    "kategori": "VEHICLE CODE",
+    "klasifikasi": "Infraction",
+    "hukuman": "N/A",
+    "denda": "$250",
+    "detail": [
+      "Seseorang yang mengemudikan kendaraan bermotor yang dengan sadar mengizinkan seseorang untuk naik di bagasi kendaraan tersebut akan dikenakan infraction sebesar $250."
+    ]
+  },
+  {
+    "kode": "605(d)",
+    "nama": "Unlawful Riding in a Vehicle (Penumpang di Bagasi - Penumpang)",
+    "kategori": "VEHICLE CODE",
+    "klasifikasi": "Infraction",
+    "hukuman": "N/A",
+    "denda": "$250",
+    "detail": [
+      "Seseorang yang naik di bagasi kendaraan bermotor akan dikenakan infraction sebesar $250."
+    ]
+  }
+]
