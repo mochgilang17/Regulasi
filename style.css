@@ -68,6 +68,12 @@ h2 {
     transition: opacity 0.5s ease-out;
 }
 
+.logo-container {
+    text-align: center; /* Menengahkan semua konten teks (h1 dan p) secara horizontal */
+    color: var(--color-accent);
+    animation: pulse 1.5s infinite alternate, glow 1.5s infinite alternate;
+}
+
 .logo-text {
     font-family: var(--font-mono);
     font-size: 5rem;
