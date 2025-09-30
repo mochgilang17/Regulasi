@@ -1,10 +1,10 @@
 /* --- Global Reset & MDT Theme Setup --- */
 :root {
-    --color-background: #1c1c24; /* Darker charcoal/navy background */
-    --color-primary: #1e88e5;    /* Primary blue accent */
-    --color-accent: #00e676;     /* Neon Green/Teal accent for buttons/info */
-    --color-text: #e0e0e0;       /* Light gray text */
-    --color-border: #333344;     /* Subtle dark border */
+    --color-background: #1c1c24;    /* Darker charcoal/navy background */
+    --color-primary: #1e88e5;       /* Primary blue accent */
+    --color-accent: #00e676;        /* Neon Green/Teal accent for buttons/info */
+    --color-text: #e0e0e0;          /* Light gray text */
+    --color-border: #333344;        /* Subtle dark border */
     --font-mono: 'Roboto Mono', 'Courier New', monospace;
 }
 
@@ -18,7 +18,7 @@ body {
 }
 
 header {
-    background-color: #0d162a; /* Even darker header for contrast */
+    background-color: #0d162a; 
     color: var(--color-accent);
     padding: 30px 0;
     text-align: center;
@@ -31,10 +31,11 @@ h1 {
     font-weight: 400;
     letter-spacing: 2px;
     text-transform: uppercase;
+    font-size: 2rem; /* Ukuran default */
 }
 
 main {
-    padding: 30px 20px;
+    padding: 20px 10px; /* Padding lebih kecil di samping untuk HP */
     max-width: 1400px; 
     margin: 20px auto;
 }
@@ -45,17 +46,67 @@ h2 {
     margin-top: 30px;
     margin-bottom: 20px;
     padding-bottom: 5px;
-    border-bottom: 1px dashed var(--color-border); /* Dashed for technical look */
+    border-bottom: 1px dashed var(--color-border);
     text-transform: uppercase;
+    font-size: 1.3rem;
 }
 
-/* --- Search & Filter Section (Data Block Look) --- */
+/* --- Splash Screen Styles (Dikecilkan untuk HP) --- */
+#splashScreen {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #0d162a;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    z-index: 9999;
+    opacity: 1;
+    transition: opacity 0.5s ease-out;
+}
+
+.logo-text {
+    font-family: var(--font-mono);
+    font-size: 5rem;
+    margin: 0;
+    font-weight: 700;
+    letter-spacing: 10px;
+    text-shadow: 0 0 15px rgba(0, 230, 118, 0.7);
+}
+
+#splashScreen p {
+    margin-top: 15px;
+    font-size: 1.2rem;
+    color: var(--color-primary);
+}
+
+@keyframes pulse {
+    from { opacity: 0.7; }
+    to { opacity: 1; }
+}
+@keyframes glow {
+    from { text-shadow: 0 0 10px rgba(0, 230, 118, 0.5); }
+    to { text-shadow: 0 0 20px rgba(0, 230, 118, 1); }
+}
+
+.hidden-content {
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.5s;
+}
+
+
+/* --- Search & Filter Section (Stacking di HP) --- */
 #search-section {
     display: flex;
-    gap: 15px;
-    margin-bottom: 40px;
-    padding: 20px;
-    background-color: #22222d; /* Slightly lighter background for the block */
+    flex-wrap: wrap; /* Mengizinkan wrap di layar kecil */
+    gap: 10px;
+    margin-bottom: 30px;
+    padding: 15px; /* Padding lebih kecil */
+    background-color: #22222d;
     border: 1px solid var(--color-border);
     border-radius: 4px;
     box-shadow: 0 0 10px rgba(30, 136, 229, 0.1);
@@ -67,29 +118,27 @@ h2 {
     color: var(--color-text);
     border: 1px solid var(--color-border);
     border-radius: 3px;
-    font-size: 15px;
-    flex-grow: 1;
+    font-size: 14px; /* Font lebih kecil */
+    flex: 1 1 100%; /* MEMASTIKAN INPUT MEMENUHI 100% DI HP */
     transition: all 0.3s ease;
     font-family: var(--font-mono);
 }
 
-#searchInput::placeholder {
-    color: #888;
-}
-
 #searchInput:focus, #categoryFilter:focus {
     border-color: var(--color-accent);
-    box-shadow: 0 0 8px rgba(0, 230, 118, 0.5); /* Neon glow effect */
+    box-shadow: 0 0 8px rgba(0, 230, 118, 0.5);
     outline: none;
 }
 
-/* --- Table Styles (Command Line Output) --- */
+/* --- Table Styles (Menggunakan Overflow-x dan Padding Ramping) --- */
 #results-section {
-    overflow-x: auto;
+    overflow-x: auto; /* Memungkinkan scrolling horizontal untuk tabel */
+    -webkit-overflow-scrolling: touch;
 }
 
 #penaltyTable {
     width: 100%;
+    min-width: 650px; /* Memastikan tabel tidak terlalu kecil */
     border-collapse: collapse;
     background-color: #22222d;
     border-radius: 4px;
@@ -98,10 +147,11 @@ h2 {
 }
 
 #penaltyTable th, #penaltyTable td {
-    padding: 12px 18px;
+    padding: 10px 12px; /* Padding lebih rapat */
     text-align: left;
     border-bottom: 1px solid var(--color-border);
-    font-size: 14px;
+    font-size: 13px; /* Font lebih kecil agar muat */
+    white-space: nowrap; /* Mencegah teks putus di sel tabel */
 }
 
 #penaltyTable th {
@@ -113,20 +163,20 @@ h2 {
 }
 
 #penaltyTable tbody tr:hover {
-    background-color: #2a2a3a; /* Subtle row highlight on hover */
+    background-color: #2a2a3a;
     cursor: pointer;
     transition: background-color 0.2s ease;
 }
 
-/* --- View Button Style (Pulsing Accent) --- */
+/* --- View Button Style (Lebih Ramping) --- */
 .view-btn {
     background-color: var(--color-accent);
-    color: #1c1c24; /* Dark text on bright button */
+    color: #1c1c24;
     border: none;
-    padding: 6px 12px;
+    padding: 5px 10px; /* Lebih kecil */
     border-radius: 3px;
     cursor: pointer;
-    font-size: 13px;
+    font-size: 12px;
     font-weight: 700;
     text-transform: uppercase;
     box-shadow: 0 0 5px rgba(0, 230, 118, 0.5);
@@ -139,7 +189,7 @@ h2 {
     transform: scale(1.05);
 }
 
-/* --- Modal Styles (Floating Terminal Window) --- */
+/* --- Modal Styles --- */
 .modal {
     display: none;
     position: fixed;
@@ -149,19 +199,19 @@ h2 {
     width: 100%;
     height: 100%;
     overflow: auto;
-    background-color: rgba(0, 0, 0, 0.85); /* Sangat gelap, fokus ke modal */
+    background-color: rgba(0, 0, 0, 0.85);
 }
 
 .modal-content {
     background-color: #1a1a24;
     margin: 5% auto;
-    padding: 30px;
+    padding: 25px; /* Padding lebih kecil */
     border: 1px solid var(--color-accent);
-    width: 90%;
-    max-width: 700px;
+    width: 95%; /* Lebih lebar di HP */
+    max-width: 600px; /* Max width diperkecil agar lebih fokus di tengah */
     border-radius: 5px;
     position: relative;
-    box-shadow: 0 0 20px rgba(0, 230, 118, 0.3); /* Neon Box Shadow */
+    box-shadow: 0 0 20px rgba(0, 230, 118, 0.3);
     animation: slideIn 0.4s ease-out;
 }
 
@@ -191,30 +241,34 @@ h2 {
 .modal-content h2 {
     color: var(--color-accent);
     margin-top: 0;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
     border-bottom: 2px solid var(--color-accent);
-    padding-bottom: 10px;
+    padding-bottom: 8px;
+    font-size: 1.5rem;
 }
 
 .modal-content h3 {
     color: var(--color-primary);
-    margin-top: 25px;
-    margin-bottom: 15px;
+    margin-top: 20px;
+    margin-bottom: 10px;
     font-weight: 600;
     text-transform: uppercase;
+    font-size: 1.1rem;
 }
 
 .modal-content p strong {
-    display: inline-block;
-    min-width: 200px;
+    display: block; /* Membuat label strong di baris sendiri di HP */
+    min-width: unset;
     color: var(--color-primary);
     font-weight: 500;
+    margin-top: 5px;
 }
 
 /* Detail List (Rincian Pasal) */
 #modalDetailsList {
     list-style-type: none;
     padding-left: 0;
+    font-size: 14px;
 }
 
 #modalDetailsList li {
@@ -224,7 +278,7 @@ h2 {
 }
 
 #modalDetailsList li:before {
-    content: '> '; /* Command line prefix */
+    content: '> ';
     color: var(--color-accent);
     margin-right: 5px;
 }
@@ -239,79 +293,21 @@ h2 {
     margin-top: 20px;
 }
 
-/* --- Responsive Adjustments --- */
-@media (max-width: 768px) {
-    #search-section {
-        flex-direction: column;
-        gap: 10px;
+/* --- Media Query untuk Responsifitas Maksimal --- */
+@media (max-width: 500px) {
+    header h1 {
+        font-size: 1.5rem;
+        letter-spacing: 1px;
+    }
+    .logo-text {
+        font-size: 3.5rem;
+        letter-spacing: 5px;
+    }
+    .modal-content {
+        margin: 5% auto; /* Agak ke atas */
         padding: 15px;
     }
-    
-    #searchInput, #categoryFilter {
-        font-size: 14px;
+    main {
+        padding: 10px 5px;
     }
-
-    #penaltyTable th, #penaltyTable td {
-        padding: 10px 15px;
-    }
-
-    .modal-content {
-        margin: 10% auto;
-        padding: 20px;
-    }
-}
-
-/* --- Splash Screen Styles --- */
-#splashScreen {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-color: #0d162a; /* Dark background from header */
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    z-index: 9999; /* Pastikan di atas segalanya */
-    opacity: 1;
-    transition: opacity 0.5s ease-out; /* Transisi saat fade out */
-}
-
-.logo-container {
-    text-align: center;
-    color: var(--color-accent);
-    animation: pulse 1.5s infinite alternate, glow 1.5s infinite alternate; /* Animasi berkedip dan bersinar */
-}
-
-.logo-text {
-    font-family: var(--font-mono);
-    font-size: 5rem; /* Ukuran besar untuk logo utama */
-    margin: 0;
-    font-weight: 700;
-    letter-spacing: 10px;
-    text-shadow: 0 0 15px rgba(0, 230, 118, 0.7); /* Efek glow neon */
-}
-
-#splashScreen p {
-    margin-top: 15px;
-    font-size: 1.2rem;
-    color: var(--color-primary);
-}
-
-/* Animasi untuk logo */
-@keyframes pulse {
-    from { opacity: 0.7; }
-    to { opacity: 1; }
-}
-@keyframes glow {
-    from { text-shadow: 0 0 10px rgba(0, 230, 118, 0.5); }
-    to { text-shadow: 0 0 20px rgba(0, 230, 118, 1); }
-}
-
-/* Class untuk menyembunyikan konten utama sampai splash hilang */
-.hidden-content {
-    visibility: hidden;
-    opacity: 0;
-    transition: opacity 0.5s;
 }
