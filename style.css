@@ -1,10 +1,10 @@
 /* --- Global Reset & MDT Theme Setup --- */
 :root {
-    --color-background: #1c1c24;    /* Darker charcoal/navy background */
-    --color-primary: #1e88e5;       /* Primary blue accent */
-    --color-accent: #00e676;        /* Neon Green/Teal accent for buttons/info */
-    --color-text: #e0e0e0;          /* Light gray text */
-    --color-border: #333344;        /* Subtle dark border */
+    --color-background: #1c1c24;    
+    --color-primary: #1e88e5;       
+    --color-accent: #00e676;        
+    --color-text: #e0e0e0;          
+    --color-border: #333344;        
     --font-mono: 'Roboto Mono', 'Courier New', monospace;
 }
 
@@ -31,11 +31,11 @@ h1 {
     font-weight: 400;
     letter-spacing: 2px;
     text-transform: uppercase;
-    font-size: 2rem; /* Ukuran default */
+    font-size: 2rem;
 }
 
 main {
-    padding: 20px 10px; /* Padding lebih kecil di samping untuk HP */
+    padding: 30px 20px;
     max-width: 1400px; 
     margin: 20px auto;
 }
@@ -51,7 +51,7 @@ h2 {
     font-size: 1.3rem;
 }
 
-/* --- Splash Screen Styles (Dikecilkan untuk HP) --- */
+/* --- Splash Screen Styles --- */
 #splashScreen {
     position: fixed;
     top: 0;
@@ -69,7 +69,7 @@ h2 {
 }
 
 .logo-container {
-    text-align: center; /* Menengahkan semua konten teks (h1 dan p) secara horizontal */
+    text-align: center; /* Menengahkan konten teks di dalam container */
     color: var(--color-accent);
     animation: pulse 1.5s infinite alternate, glow 1.5s infinite alternate;
 }
@@ -104,14 +104,12 @@ h2 {
     transition: opacity 0.5s;
 }
 
-
-/* --- Search & Filter Section (Stacking di HP) --- */
+/* --- Search & Filter Section --- */
 #search-section {
     display: flex;
-    flex-wrap: wrap; /* Mengizinkan wrap di layar kecil */
-    gap: 10px;
-    margin-bottom: 30px;
-    padding: 15px; /* Padding lebih kecil */
+    gap: 15px;
+    margin-bottom: 40px;
+    padding: 20px;
     background-color: #22222d;
     border: 1px solid var(--color-border);
     border-radius: 4px;
@@ -124,10 +122,14 @@ h2 {
     color: var(--color-text);
     border: 1px solid var(--color-border);
     border-radius: 3px;
-    font-size: 14px; /* Font lebih kecil */
-    flex: 1 1 100%; /* MEMASTIKAN INPUT MEMENUHI 100% DI HP */
+    font-size: 15px;
+    flex-grow: 1;
     transition: all 0.3s ease;
     font-family: var(--font-mono);
+}
+
+#searchInput::placeholder {
+    color: #888;
 }
 
 #searchInput:focus, #categoryFilter:focus {
@@ -136,15 +138,13 @@ h2 {
     outline: none;
 }
 
-/* --- Table Styles (Menggunakan Overflow-x dan Padding Ramping) --- */
+/* --- Table Styles (Optimal for Desktop) --- */
 #results-section {
-    overflow-x: auto; /* Memungkinkan scrolling horizontal untuk tabel */
-    -webkit-overflow-scrolling: touch;
+    overflow-x: hidden; /* HIDDEN: Tidak ada scroll horizontal di desktop */
 }
 
 #penaltyTable {
     width: 100%;
-    min-width: 650px; /* Memastikan tabel tidak terlalu kecil */
     border-collapse: collapse;
     background-color: #22222d;
     border-radius: 4px;
@@ -153,12 +153,19 @@ h2 {
 }
 
 #penaltyTable th, #penaltyTable td {
-    padding: 10px 12px; /* Padding lebih rapat */
+    padding: 12px 18px;
     text-align: left;
     border-bottom: 1px solid var(--color-border);
-    font-size: 13px; /* Font lebih kecil agar muat */
-    white-space: nowrap; /* Mencegah teks putus di sel tabel */
+    font-size: 14px;
 }
+
+#penaltyTable th:nth-child(1), #penaltyTable td:nth-child(1) { width: 10%; } /* Kode Pasal */
+#penaltyTable th:nth-child(2), #penaltyTable td:nth-child(2) { width: 30%; } /* Nama Pelanggaran */
+#penaltyTable th:nth-child(3), #penaltyTable td:nth-child(3) { width: 20%; } /* Kategori */
+#penaltyTable th:nth-child(4), #penaltyTable td:nth-child(4) { width: 15%; } /* Klasifikasi */
+#penaltyTable th:nth-child(5), #penaltyTable td:nth-child(5) { width: 15%; } /* Hukuman */
+#penaltyTable th:nth-child(6), #penaltyTable td:nth-child(6) { width: 10%; } /* Aksi (View Button) */
+
 
 #penaltyTable th {
     background-color: #1a1a24;
@@ -170,19 +177,19 @@ h2 {
 
 #penaltyTable tbody tr:hover {
     background-color: #2a2a3a;
-    cursor: pointer;
+    cursor: default;
     transition: background-color 0.2s ease;
 }
 
-/* --- View Button Style (Lebih Ramping) --- */
+/* --- View Button Style --- */
 .view-btn {
     background-color: var(--color-accent);
     color: #1c1c24;
     border: none;
-    padding: 5px 10px; /* Lebih kecil */
+    padding: 6px 12px;
     border-radius: 3px;
     cursor: pointer;
-    font-size: 12px;
+    font-size: 13px;
     font-weight: 700;
     text-transform: uppercase;
     box-shadow: 0 0 5px rgba(0, 230, 118, 0.5);
@@ -195,7 +202,7 @@ h2 {
     transform: scale(1.05);
 }
 
-/* --- Modal Styles --- */
+/* --- Modal Styles (Tidak berubah) --- */
 .modal {
     display: none;
     position: fixed;
@@ -211,10 +218,10 @@ h2 {
 .modal-content {
     background-color: #1a1a24;
     margin: 5% auto;
-    padding: 25px; /* Padding lebih kecil */
+    padding: 30px;
     border: 1px solid var(--color-accent);
-    width: 95%; /* Lebih lebar di HP */
-    max-width: 600px; /* Max width diperkecil agar lebih fokus di tengah */
+    width: 90%;
+    max-width: 700px;
     border-radius: 5px;
     position: relative;
     box-shadow: 0 0 20px rgba(0, 230, 118, 0.3);
@@ -243,38 +250,32 @@ h2 {
     cursor: pointer;
 }
 
-/* Modal Detail Styling */
 .modal-content h2 {
     color: var(--color-accent);
     margin-top: 0;
-    margin-bottom: 15px;
+    margin-bottom: 20px;
     border-bottom: 2px solid var(--color-accent);
-    padding-bottom: 8px;
-    font-size: 1.5rem;
+    padding-bottom: 10px;
 }
 
 .modal-content h3 {
     color: var(--color-primary);
-    margin-top: 20px;
-    margin-bottom: 10px;
+    margin-top: 25px;
+    margin-bottom: 15px;
     font-weight: 600;
     text-transform: uppercase;
-    font-size: 1.1rem;
 }
 
 .modal-content p strong {
-    display: block; /* Membuat label strong di baris sendiri di HP */
-    min-width: unset;
+    display: inline-block;
+    min-width: 200px;
     color: var(--color-primary);
     font-weight: 500;
-    margin-top: 5px;
 }
 
-/* Detail List (Rincian Pasal) */
 #modalDetailsList {
     list-style-type: none;
     padding-left: 0;
-    font-size: 14px;
 }
 
 #modalDetailsList li {
@@ -289,7 +290,6 @@ h2 {
     margin-right: 5px;
 }
 
-/* Info Khusus (No Results) */
 #noResults {
     color: var(--color-accent);
     text-align: center;
@@ -299,21 +299,54 @@ h2 {
     margin-top: 20px;
 }
 
-/* --- Media Query untuk Responsifitas Maksimal --- */
-@media (max-width: 500px) {
+/* ------------------------------------------- */
+/* --- MEDIA QUERIES (Tampilan HP) --- */
+/* ------------------------------------------- */
+
+@media (max-width: 768px) {
+    
     header h1 {
         font-size: 1.5rem;
         letter-spacing: 1px;
     }
-    .logo-text {
-        font-size: 3.5rem;
-        letter-spacing: 5px;
+
+    main {
+        padding: 20px 10px;
     }
-    .modal-content {
-        margin: 5% auto; /* Agak ke atas */
+
+    /* Input stacking vertikal di HP */
+    #search-section {
+        flex-direction: column;
+        gap: 10px;
         padding: 15px;
     }
-    main {
-        padding: 10px 5px;
+    
+    #searchInput, #categoryFilter {
+        font-size: 14px;
+        flex: 1 1 100%; /* Memastikan keduanya mengisi lebar penuh */
+    }
+
+    /* Tabel: Memungkinkan Scroll Horizontal */
+    #results-section {
+        overflow-x: auto; /* DIBUKA: Scroll horizontal diaktifkan untuk HP */
+        -webkit-overflow-scrolling: touch;
+    }
+    
+    #penaltyTable {
+        /* Set lebar minimal agar scroll horizontal bekerja, mencegah kerutan */
+        min-width: 700px; 
+    }
+
+    #penaltyTable th, #penaltyTable td {
+        padding: 10px 12px;
+        font-size: 13px;
+        white-space: nowrap; /* Mencegah teks putus */
+    }
+
+    /* Kolom Aksi (View) di Modal */
+    .modal-content p strong {
+        display: block; /* Label di baris terpisah */
+        min-width: unset;
+        margin-top: 5px;
     }
 }
