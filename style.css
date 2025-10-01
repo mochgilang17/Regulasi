@@ -69,7 +69,7 @@ h2 {
 }
 
 .logo-container {
-    text-align: center; /* Menengahkan konten teks di dalam container */
+    text-align: center; 
     color: var(--color-accent);
     animation: pulse 1.5s infinite alternate, glow 1.5s infinite alternate;
 }
@@ -140,7 +140,7 @@ h2 {
 
 /* --- Table Styles (Optimal for Desktop) --- */
 #results-section {
-    overflow-x: hidden; /* HIDDEN: Tidak ada scroll horizontal di desktop */
+    overflow-x: hidden;
 }
 
 #penaltyTable {
@@ -202,9 +202,9 @@ h2 {
     transform: scale(1.05);
 }
 
-/* --- Modal Styles (Tidak berubah) --- */
+/* --- Modal Styles --- */
 .modal {
-    display: none;
+    display: none; /* INI PENTING: Menyembunyikan modal secara default */
     position: fixed;
     z-index: 1000;
     left: 0;
@@ -299,6 +299,59 @@ h2 {
     margin-top: 20px;
 }
 
+
+/* ------------------------------------------- */
+/* --- GAYA BARU: Tabel Denda Level --- */
+/* ------------------------------------------- */
+
+.modal-content #fineTableContainer {
+    max-height: 70vh; /* Agar bisa discroll di HP */
+    overflow-y: auto;
+    padding-right: 15px;
+}
+
+.modal-content #fineTableContainer h3 {
+    color: var(--color-accent);
+    margin-top: 30px;
+    margin-bottom: 10px;
+    font-size: 1.1rem;
+    border-bottom: 1px dotted var(--color-border);
+    padding-bottom: 5px;
+}
+
+.fine-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+    background-color: #2a2a3a;
+    border-radius: 3px;
+    overflow: hidden;
+}
+
+.fine-table th {
+    background-color: var(--color-primary);
+    color: white;
+    padding: 8px;
+    text-align: center;
+    font-weight: 700;
+    font-size: 0.9rem;
+}
+
+.fine-table td {
+    padding: 6px 10px;
+    text-align: center;
+    border-bottom: 1px solid var(--color-border);
+    font-size: 0.9rem;
+}
+
+.fine-table tbody tr:nth-child(even) {
+    background-color: #1a1a24;
+}
+
+.fine-table tbody tr:hover {
+    background-color: #333344;
+}
+
 /* ------------------------------------------- */
 /* --- MEDIA QUERIES (Tampilan HP) --- */
 /* ------------------------------------------- */
@@ -323,29 +376,28 @@ h2 {
     
     #searchInput, #categoryFilter {
         font-size: 14px;
-        flex: 1 1 100%; /* Memastikan keduanya mengisi lebar penuh */
+        flex: 1 1 100%;
     }
 
     /* Tabel: Memungkinkan Scroll Horizontal */
     #results-section {
-        overflow-x: auto; /* DIBUKA: Scroll horizontal diaktifkan untuk HP */
+        overflow-x: auto;
         -webkit-overflow-scrolling: touch;
     }
     
     #penaltyTable {
-        /* Set lebar minimal agar scroll horizontal bekerja, mencegah kerutan */
         min-width: 700px; 
     }
 
     #penaltyTable th, #penaltyTable td {
         padding: 10px 12px;
         font-size: 13px;
-        white-space: nowrap; /* Mencegah teks putus */
+        white-space: nowrap; 
     }
 
     /* Kolom Aksi (View) di Modal */
     .modal-content p strong {
-        display: block; /* Label di baris terpisah */
+        display: block;
         min-width: unset;
         margin-top: 5px;
     }

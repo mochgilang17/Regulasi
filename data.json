@@ -989,7 +989,7 @@
   },
   {
     "kode": "507",
-    "nama": "Petty Theft (Pencurian Kecil - Nilai ≤ $950)",
+    "nama": "Petty Theft (Pencurian Kecil - Nilai \u2264 $950)",
     "kategori": "TITLE IV OF CRIMES AGAINST PROPERTY",
     "klasifikasi": "Misdemeanor",
     "hukuman": "8 menit penjara",
@@ -1520,7 +1520,7 @@
     "nama": "Contempt of Senate (Penghinaan terhadap Senat)",
     "kategori": "TITLE VI OF CRIMES AGAINST PUBLIC JUSTICE",
     "klasifikasi": "Misdemeanor",
-    "hukuman": "≤ 8 menit penjara",
+    "hukuman": "\u2264 8 menit penjara",
     "denda": "$80",
     "detail": [
       "Seseorang yang dengan sengaja tidak mematuhi perintah lisan atau tertulis dari Senat, tidak menghormati tata krama Senat, atau melanggar proses senat lainnya bersalah atas misdemeanor."
@@ -1531,7 +1531,7 @@
     "nama": "Contempt of Court (Penghinaan terhadap Pengadilan)",
     "kategori": "TITLE VI OF CRIMES AGAINST PUBLIC JUSTICE",
     "klasifikasi": "Misdemeanor",
-    "hukuman": "≤ 8 menit penjara",
+    "hukuman": "\u2264 8 menit penjara",
     "denda": "$80",
     "detail": [
       "Seseorang yang dengan sengaja tidak mematuhi perintah lisan atau tertulis dari otoritas pengadilan, tidak menghormati tata krama pengadilan, atau melanggar proses hukum lainnya bersalah atas misdemeanor."
@@ -1542,7 +1542,7 @@
     "nama": "Subpoena Violation (Pelanggaran Subpoena)",
     "kategori": "TITLE VI OF CRIMES AGAINST PUBLIC JUSTICE",
     "klasifikasi": "Misdemeanor",
-    "hukuman": "≤ 8 menit penjara",
+    "hukuman": "\u2264 8 menit penjara",
     "denda": "$80",
     "detail": [
       "Seseorang yang mengabaikan atau melanggar perintah subpoena yang dikeluarkan oleh Pengadilan bersalah atas misdemeanor."
@@ -1575,7 +1575,7 @@
   },
   {
     "kode": "703(a)",
-    "nama": "Driving Under the Influence (DUI - Alkohol ≥ 0,08%)",
+    "nama": "Driving Under the Influence (DUI - Alkohol \u2265 0,08%)",
     "kategori": "TITLE VII OF CRIMES WITH A VEHICLE",
     "klasifikasi": "Felony",
     "hukuman": "24 menit penjara + penyitaan lisensi 24 jam",
@@ -1784,7 +1784,7 @@
     ]
   },
   {
-    "kode": "001",
+    "kode": "VC-001",
     "nama": "License Suspension and Revocation (Penangguhan/Pencabutan SIM)",
     "kategori": "VEHICLE CODE",
     "klasifikasi": "Info",
@@ -1797,7 +1797,7 @@
     ]
   },
   {
-    "kode": "002",
+    "kode": "VC-002",
     "nama": "Officer Discretion (Kebijaksanaan Petugas)",
     "kategori": "VEHICLE CODE",
     "klasifikasi": "Info",
@@ -1808,29 +1808,29 @@
     ]
   },
   {
-    "kode": "101(a)",
+    "kode": "VC-101(a)",
     "nama": "Vehicle Registration Violation (Tidak Terdaftar)",
     "kategori": "VEHICLE CODE",
     "klasifikasi": "Infraction",
     "hukuman": "N/A + Penyitaan Kendaraan",
-    "denda": "Lihat Tabel Level (Motor/Mobil/Komersial/Sport)",
+    "denda": "Lihat Tabel Level",
     "detail": [
       "Seseorang yang mengemudikan, memindahkan, atau meninggalkan kendaraan di jalan umum, atau di tempat umum yang belum terdaftar di Negara Bagian San Andreas akan dikenakan infraction dan kendaraan akan di sita oleh petugas. (Lihat tabel denda di bagian penjelasan kendaraan)."
     ]
   },
   {
-    "kode": "101(b)",
+    "kode": "VC-101(b)",
     "nama": "Vehicle Registration Violation (Tidak Ada Plat)",
     "kategori": "VEHICLE CODE",
     "klasifikasi": "Infraction",
     "hukuman": "N/A + Penyitaan Kendaraan",
-    "denda": "Lihat Tabel Level (Motor/Mobil/Komersial/Sport)",
+    "denda": "Lihat Tabel Level",
     "detail": [
       "Seseorang yang mengemudikan kendaraan bermotor tanpa nomor plat yang valid yang dipajang di jalan umum, atau tempat umum akan dikenakan infraction dan kendaraan akan di sita oleh petugas. (Lihat tabel denda di bagian penjelasan kendaraan)."
     ]
   },
   {
-    "kode": "201(a)",
+    "kode": "VC-201(a)",
     "nama": "Driving without a Valid License (Tanpa SIM Valid)",
     "kategori": "VEHICLE CODE",
     "klasifikasi": "Misdemeanor",
@@ -1841,7 +1841,7 @@
     ]
   },
   {
-    "kode": "201(b)",
+    "kode": "VC-201(b)",
     "nama": "Driving without a Valid License (SIM Tidak Dibawa)",
     "kategori": "VEHICLE CODE",
     "klasifikasi": "Misdemeanor",
@@ -1852,7 +1852,7 @@
     ]
   },
   {
-    "kode": "201(c)",
+    "kode": "VC-201(c)",
     "nama": "Driving without a Valid License (SIM Kedaluwarsa)",
     "kategori": "VEHICLE CODE",
     "klasifikasi": "Infraction",
@@ -1863,7 +1863,7 @@
     ]
   },
   {
-    "kode": "202",
+    "kode": "VC-202",
     "nama": "Driving on a Suspended License (SIM Disita/Ditangguhkan)",
     "kategori": "VEHICLE CODE",
     "klasifikasi": "Misdemeanor",
@@ -1874,7 +1874,7 @@
     ]
   },
   {
-    "kode": "203(a)",
+    "kode": "VC-203(a)",
     "nama": "Learner's Permit Violation (Tanpa Izin Belajar)",
     "kategori": "VEHICLE CODE",
     "klasifikasi": "Infraction",
@@ -1885,7 +1885,7 @@
     ]
   },
   {
-    "kode": "203(b)",
+    "kode": "VC-203(b)",
     "nama": "Learner's Permit Violation (Tanpa Pendamping Dewasa)",
     "kategori": "VEHICLE CODE",
     "klasifikasi": "Infraction",
@@ -1896,7 +1896,7 @@
     ]
   },
   {
-    "kode": "301",
+    "kode": "VC-301",
     "nama": "Driving without Insurance (Tanpa Asuransi)",
     "kategori": "VEHICLE CODE",
     "klasifikasi": "Infraction",
@@ -1907,7 +1907,7 @@
     ]
   },
   {
-    "kode": "401(a)",
+    "kode": "VC-401(a)",
     "nama": "Speeding (> 40 MPH di Kawasan Bisnis/Pemukiman)",
     "kategori": "VEHICLE CODE",
     "klasifikasi": "Infraction",
@@ -1918,7 +1918,7 @@
     ]
   },
   {
-    "kode": "401(b)",
+    "kode": "VC-401(b)",
     "nama": "Speeding (> 65 MPH di Luar Kawasan)",
     "kategori": "VEHICLE CODE",
     "klasifikasi": "Infraction",
@@ -1929,7 +1929,7 @@
     ]
   },
   {
-    "kode": "401(c)",
+    "kode": "VC-401(c)",
     "nama": "Speeding (> 90 MPH di Jalan Raya)",
     "kategori": "VEHICLE CODE",
     "klasifikasi": "Infraction",
@@ -1940,7 +1940,7 @@
     ]
   },
   {
-    "kode": "401(d)",
+    "kode": "VC-401(d)",
     "nama": "Speeding (Tidak Wajar/Tidak Aman)",
     "kategori": "VEHICLE CODE",
     "klasifikasi": "Infraction",
@@ -1951,7 +1951,7 @@
     ]
   },
   {
-    "kode": "402",
+    "kode": "VC-402",
     "nama": "Failure to Yield (Gagal Memberi Hak Jalan)",
     "kategori": "VEHICLE CODE",
     "klasifikasi": "Infraction",
@@ -1963,7 +1963,7 @@
     ]
   },
   {
-    "kode": "403",
+    "kode": "VC-403",
     "nama": "Failure to Yield to Emergency Vehicles (Gagal Memberi Hak Jalan ke Kendaraan Darurat)",
     "kategori": "VEHICLE CODE",
     "klasifikasi": "Infraction",
@@ -1974,7 +1974,7 @@
     ]
   },
   {
-    "kode": "404",
+    "kode": "VC-404",
     "nama": "Failure to Abide by a Traffic Control Device (Gagal Mematuhi Alat Pengatur Lalu Lintas)",
     "kategori": "VEHICLE CODE",
     "klasifikasi": "Infraction",
@@ -1985,7 +1985,7 @@
     ]
   },
   {
-    "kode": "405",
+    "kode": "VC-405",
     "nama": "Illegal Parking (Parkir Ilegal)",
     "kategori": "VEHICLE CODE",
     "klasifikasi": "Infraction",
@@ -2007,7 +2007,7 @@
     ]
   },
   {
-    "kode": "406",
+    "kode": "VC-406",
     "nama": "Vehicular Noise Violation (Pelanggaran Kebisingan Kendaraan)",
     "kategori": "VEHICLE CODE",
     "klasifikasi": "Infraction",
@@ -2019,7 +2019,7 @@
     ]
   },
   {
-    "kode": "407",
+    "kode": "VC-407",
     "nama": "Illegal Use of Hydraulics (Penggunaan Hidrolik Ilegal)",
     "kategori": "VEHICLE CODE",
     "klasifikasi": "Infraction",
@@ -2030,7 +2030,7 @@
     ]
   },
   {
-    "kode": "408",
+    "kode": "VC-408",
     "nama": "Unsafe Usage of a Bicycle (Penggunaan Sepeda Tidak Aman)",
     "kategori": "VEHICLE CODE",
     "klasifikasi": "Infraction",
@@ -2041,7 +2041,7 @@
     ]
   },
   {
-    "kode": "409",
+    "kode": "VC-409",
     "nama": "Jaywalking (Menyeberang Tidak Pada Tempatnya)",
     "kategori": "VEHICLE CODE",
     "klasifikasi": "Infraction",
@@ -2052,7 +2052,7 @@
     ]
   },
   {
-    "kode": "410",
+    "kode": "VC-410",
     "nama": "Speed Contests (Balapan Kecepatan)",
     "kategori": "VEHICLE CODE",
     "klasifikasi": "Infraction",
@@ -2063,7 +2063,7 @@
     ]
   },
   {
-    "kode": "501",
+    "kode": "VC-501",
     "nama": "Tinted Windows (Kaca Film Gelap)",
     "kategori": "VEHICLE CODE",
     "klasifikasi": "Infraction",
@@ -2074,7 +2074,7 @@
     ]
   },
   {
-    "kode": "502",
+    "kode": "VC-502",
     "nama": "Driving Without use of Headlights (Mengemudi Tanpa Lampu Depan)",
     "kategori": "VEHICLE CODE",
     "klasifikasi": "Infraction",
@@ -2085,7 +2085,7 @@
     ]
   },
   {
-    "kode": "503",
+    "kode": "VC-503",
     "nama": "Operating an Unsafe Vehicle (Mengoperasikan Kendaraan Tidak Aman)",
     "kategori": "VEHICLE CODE",
     "klasifikasi": "Infraction",
@@ -2100,7 +2100,7 @@
     ]
   },
   {
-    "kode": "504",
+    "kode": "VC-504",
     "nama": "Unauthorized Use of Red/Blue Lights (Penggunaan Lampu Darurat Ilegal)",
     "kategori": "VEHICLE CODE",
     "klasifikasi": "Misdemeanor",
@@ -2111,7 +2111,7 @@
     ]
   },
   {
-    "kode": "601",
+    "kode": "VC-601",
     "nama": "Failure to Wear a Helmet (Gagal Mengenakan Helm)",
     "kategori": "VEHICLE CODE",
     "klasifikasi": "Infraction",
@@ -2122,7 +2122,7 @@
     ]
   },
   {
-    "kode": "602",
+    "kode": "VC-602",
     "nama": "Unlawful Riding and Towing (Menarik/Mengangkut Kendaraan Secara Tidak Sah)",
     "kategori": "VEHICLE CODE",
     "klasifikasi": "Infraction",
@@ -2133,7 +2133,7 @@
     ]
   },
   {
-    "kode": "603",
+    "kode": "VC-603",
     "nama": "Reckless Operation of Machinery (Mengoperasikan Mesin Berat di Jalan Umum)",
     "kategori": "VEHICLE CODE",
     "klasifikasi": "Infraction",
@@ -2144,7 +2144,7 @@
     ]
   },
   {
-    "kode": "604",
+    "kode": "VC-604",
     "nama": "Reckless operation off an off-road vehicle (Mengoperasikan Kendaraan Off-Road di Jalan Umum)",
     "kategori": "VEHICLE CODE",
     "klasifikasi": "Infraction",
@@ -2155,7 +2155,7 @@
     ]
   },
   {
-    "kode": "605(a)",
+    "kode": "VC-605(a)",
     "nama": "Unlawful Riding in a Vehicle (Penumpang di Tempat Tidak Ditentukan - Pengemudi)",
     "kategori": "VEHICLE CODE",
     "klasifikasi": "Infraction",
@@ -2166,7 +2166,7 @@
     ]
   },
   {
-    "kode": "605(b)",
+    "kode": "VC-605(b)",
     "nama": "Unlawful Riding in a Vehicle (Penumpang di Tempat Tidak Ditentukan - Penumpang)",
     "kategori": "VEHICLE CODE",
     "klasifikasi": "Infraction",
@@ -2177,7 +2177,7 @@
     ]
   },
   {
-    "kode": "605(c)",
+    "kode": "VC-605(c)",
     "nama": "Unlawful Riding in a Vehicle (Penumpang di Bagasi - Pengemudi)",
     "kategori": "VEHICLE CODE",
     "klasifikasi": "Infraction",
@@ -2188,7 +2188,7 @@
     ]
   },
   {
-    "kode": "605(d)",
+    "kode": "VC-605(d)",
     "nama": "Unlawful Riding in a Vehicle (Penumpang di Bagasi - Penumpang)",
     "kategori": "VEHICLE CODE",
     "klasifikasi": "Infraction",
